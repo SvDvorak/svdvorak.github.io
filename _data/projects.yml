@@ -1,0 +1,30 @@
+- name: Desert Miner
+  description: Adventure game<br />Made in a weekend
+  authors: Andreas & Daniel Wilcox
+  download: https://dl.dropboxusercontent.com/u/107494599/DesertMiner_1.2.zip
+  image: desert_miner.png
+
+- name: Desert Miner II
+  description: Game about mining in the desert<br />Made in a weekend
+  authors: Andreas & Daniel Wilcox
+  download: https://dl.dropboxusercontent.com/u/107494599/Desert%20Miner%20II.zip
+  image: desert_miner_2.png
+
+- name: SQM Import Export
+  description: Library for importing and exporting<br /> ArmA 2 & 3 SQM-files
+  authors: Andreas Wilcox
+  download: https://www.nuget.org/packages/SQMImportExport/
+  source: https://github.com/SvDvorak/SQMImportExport
+  image: code.png
+
+- name: Podolsky Paradox
+  description: A short text-adventure about an unknown<br />house in the woods, made in a day
+  authors: Andreas Wilcox
+  download: https://dl.dropboxusercontent.com/u/107494599/Podolsky_Paradox_1.0.html
+  image: podolsky_paradox.png
+
+- name: The Lonely Tower
+  description: A very silly text-adventure<br />Made in a day
+  authors: Andreas & Daniel Wilcox
+  download: https://dl.dropboxusercontent.com/u/107494599/the_lonely_tower.html
+  image: the_lonely_tower.png

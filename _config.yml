@@ -1,0 +1,6 @@
+markdown: rdiscount
+highlighter: pygments
+safe: true
+lsi: false
+source: F:\Personal\Programming\GithubPage
+paginate: 5

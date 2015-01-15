@@ -1,0 +1,25 @@
+---
+layout: default
+title: Andreas Wilcox - Projects
+---
+
+<div>
+	<h1>Past projects</h1>
+	<ul class="projects">
+	{% for project in site.data.projects %}
+		<li>
+			<div style="background-image:url(../images/{{ project.image }})" class="project">
+				<p class="projecttitle">{{ project.name }}</p>
+				<p class="projectdescription">
+					{{ project.description }}<br />
+					{{ project.authors }}
+				</p>
+				{% if project.source != null %}
+				<a class="projectlink" href="{{ project.source }}">Source</a>
+				{% endif %}
+				<a class="projectlink" href="{{ project.download }}">Download</a>
+			</div>
+		</li>
+	{% endfor %}
+	</ul>
+</div>

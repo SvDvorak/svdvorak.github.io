@@ -1,0 +1,249 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: white;
+  font: 13.34px helvetica, arial, clean, sans-serif;
+  *font-size: small;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+}
+
+h1 {
+  margin-bottom: 1em;
+}
+
+p {
+  margin: 1em 0;
+}
+
+a {
+  color: #00a;
+}
+
+a:hover {
+  color: black;
+}
+
+a:visited {
+  color: #a0a;
+}
+
+table {
+  font-size: inherit;
+  font: 100%;
+}
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+
+ul.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+
+  ul.posts li {
+    line-height: 1.75em;
+  }
+
+  ul.posts span {
+    color: #aaa;
+    font-family: Monaco, "Courier New", monospace;
+    font-size: 80%;
+  }
+
+  ul.posts h2 {
+    display: inline
+  }
+
+/*****************************************************************************/
+/*
+/* Site
+/*
+/*****************************************************************************/
+
+.site {
+  font-size: 110%;
+  text-align: justify;
+  width: 42em;
+  margin: 3em auto 2em auto;
+  line-height: 1.5em;
+}
+
+.title {
+  color: #a00;
+  font-weight: bold;
+  margin-bottom: 2em;
+}
+
+  .site .title a {
+    color: #a00;
+    text-decoration: none;
+  }
+
+  .site .title a:hover {
+    color: black;
+  }
+
+  .site .title a.links {
+    color: #aaa;
+    text-decoration: none;
+    margin-left: 1em;
+  }
+
+  .site .title a.links:hover {
+    color: black;
+  }
+
+  .site .meta {
+    color: #aaa;
+  }
+
+  .site .footer {
+    font-size: 80%;
+    color: #666;
+    border-top: 4px solid #eee;
+    margin-top: 2em;
+    overflow: hidden;
+  }
+
+    .site .footer .contact {
+      float: left;
+      margin-right: 3em;
+    }
+
+      .site .footer .contact a {
+        color: #8085C1;
+      }
+
+    .site .footer .rss {
+      margin-top: 1.1em;
+      margin-right: -.2em;
+      float: right;
+    }
+
+      .site .footer .rss img {
+        border: 0;
+      }
+
+/*****************************************************************************/
+/*
+/* Posts
+/*
+/*****************************************************************************/
+
+#post {
+
+}
+
+  /* standard */
+
+  #post pre {
+    border: 1px solid #ddd;
+    background-color: #eef;
+    padding: 0 .4em;
+  }
+
+  #post ul,
+  #post ol {
+    margin-left: 1.35em;
+  }
+
+  #post code {
+    border: 1px solid #ddd;
+    background-color: #eef;
+    font-size: 85%;
+    padding: 0 .2em;
+  }
+
+    #post pre code {
+      border: none;
+    }
+
+/*****************************************************************************/
+/*
+/* Projects
+/*
+/*****************************************************************************/
+
+.projects {
+  list-style-type: none;
+}
+
+.projects .project {
+  background-size: 100% 100%;
+  border: 2px solid;
+  border-color: #aaa;
+
+  padding-bottom: 1em;
+  padding-right: 1em;
+  margin-bottom: 1em;
+
+  text-align: right;
+  font: 13.34px helvetica, arial, clean, sans-serif;
+  font-weight: bold;
+}
+
+  .projects .projectlink
+  {
+    text-decoration: none;
+    color: #44a;
+    margin-left: 10px;
+  }
+
+  .projects .project .projecttitle
+  {
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: large;
+    margin-right: 10px;
+    color: white;
+  }
+
+  .projects .project .projectdescription
+  {
+    color: #666;
+  }
+
+/*****************************************************************************/
+/*
+/* About
+/*
+/*****************************************************************************/
+
+.about
+{
+  display: table;
+}
+
+.about img
+{
+  border: 1px solid;
+  margin-right: 20px;
+}
+
+.about span
+{
+  vertical-align: middle;
+  text-align: left;
+  display: table-cell;
+}
