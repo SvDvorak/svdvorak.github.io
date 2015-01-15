@@ -76,6 +76,16 @@ ul.posts {
     display: inline
   }
 
+.pagination .previous
+{
+  margin-right: 10px;
+}
+
+.pagination .next
+{
+  margin-left: 10px;
+}
+
 /*****************************************************************************/
 /*
 /* Site
