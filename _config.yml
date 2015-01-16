@@ -1,3 +1,6 @@
+name: Andreas Blog
+description: Ramblings of a game developer
+url: http://svdvorak.github.io/
 markdown: rdiscount
 highlighter: pygments
 safe: true
