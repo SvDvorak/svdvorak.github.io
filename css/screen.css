@@ -190,6 +190,23 @@ ul.posts {
       border: none;
     }
 
+  .posts img {
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .posts img[alt=drawing] {
+    border: 1px solid;
+    border-color: #aaa;
+  }
+
+  .posts .imageText {
+    text-align: center;
+    font-style: italic;
+  }
+
 /*****************************************************************************/
 /*
 /* Projects
