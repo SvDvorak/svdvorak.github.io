@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
-<div id="post">
-{{ content}}
+<div class="post">
+	<li><span>{{ page.date | date_to_string }}</span> &raquo; <a href="{{ page.url }}">{{ page.title }}</a></li>
+	{{ content }}
 </div>
