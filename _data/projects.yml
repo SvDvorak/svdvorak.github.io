@@ -5,7 +5,7 @@
   image: desert_miner.png
 
 - name: Desert Miner II
-  description: Game about mining in the desert<br />Made in a weekend
+  description: Game about mining in the desert<br />Made in a weekend, requires <a href="http://www.microsoft.com/en-us/download/details.aspx?id=20914">XNA</a>
   authors: Andreas & Daniel Wilcox
   download: https://dl.dropboxusercontent.com/u/107494599/Desert%20Miner%20II.zip
   image: desert_miner_2.png
