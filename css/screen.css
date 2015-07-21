@@ -76,8 +76,10 @@ table {
 .site {
   font-size: 110%;
   text-align: justify;
-  width: 42em;
+  max-width: 42em;
   margin: 3em auto 2em auto;
+  padding-left: 1em;
+  padding-right: 1em;
   line-height: 1.5em;
 }
 
@@ -86,31 +88,42 @@ table {
   font-weight: bold;
   margin-bottom: 2em;
 }
-
-  .site .title a {
-    color: #a00;
-    text-decoration: none;
+  
+  .site .title {
+    clear: both;
   }
 
-  .site .title a:hover {
-    color: black;
+    .site .title a {
+      float: left;
+      color: #a00;
+      text-decoration: none;
+    }
+
+    .site .title a:hover {
+      color: black;
+    }
+
+  .site .title .links {
+    overflow: hidden;
+    display: inline-block;
   }
 
-  .site .title a.links {
-    color: #aaa;
-    text-decoration: none;
-    margin-left: 1em;
-  }
+    .site .title .links a {
+      color: #aaa;
+      text-decoration: none;
+      margin-left: 1em;
+    }
 
-  .site .title a.links:hover {
-    color: black;
-  }
+    .site .title .links a:hover {
+      color: black;
+    }
 
   .site .meta {
     color: #aaa;
   }
 
   .site .footer {
+    clear: both;
     font-size: 80%;
     color: #666;
     border-top: 4px solid #eee;
@@ -188,7 +201,7 @@ table {
   }
 
   .post img[alt=drawing], img[alt=image] {
-    width: 80%;
+    width: 100%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -202,6 +215,7 @@ table {
   }
 
 .gfycontainer {
+  width: 100%;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -219,7 +233,10 @@ table {
 }
 
 .projects .project {
+  height: 140px;
   background-size: 100% 100%;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
   border: 2px solid;
   border-color: #aaa;
 
@@ -260,18 +277,25 @@ table {
 
 .about
 {
-  display: table;
 }
 
 .about img
 {
+  float: left;
   border: 1px solid;
   margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.about div
+{
+  overflow: hidden;
+  display: block;
+  min-width: 100px;
 }
 
 .about span
 {
   vertical-align: middle;
   text-align: left;
-  display: table-cell;
 }
