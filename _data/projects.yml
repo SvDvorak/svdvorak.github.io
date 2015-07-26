@@ -1,3 +1,23 @@
+- name: Reaktor (WIP)
+  description: Manage a power plant<br />Until it goes rampant
+  authors: Andreas & Daniel Wilcox
+  download: https://dl.dropboxusercontent.com/u/107494599/TheLittlePowerPlant/TheLittlePowerPlant_r4/TheLittlePowerPlant.html
+  source: https://github.com/SvDvorak/TheLittlePowerPlant
+  image: Reaktor_early.png
+
+- name: MicroTactics (WIP)
+  description: Mini RTS with focus<br /> on few units with lots of control
+  authors: Andreas & Daniel Wilcox
+  download: 
+  source: https://github.com/SvDvorak/MicroTactics
+  image: MicroTactics_early.png
+
+- name: Precursor
+  description: Half-Life 2 singleplayer mod
+  authors: Patrick Murphy, Andreas Wilcox<br />& Oliver Boson
+  download: http://www.precursormod.com/
+  image: Precursor.png
+
 - name: Desert Miner
   description: Adventure game<br />Made in a weekend
   authors: Andreas & Daniel Wilcox

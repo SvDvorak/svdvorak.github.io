@@ -10,14 +10,18 @@ title: Andreas Wilcox - Projects
 		<li>
 			<div style="background-image:url(../images/{{ project.image }})" class="project">
 				<p class="projecttitle">{{ project.name }}</p>
+				<div>
 				<p class="projectdescription">
 					{{ project.description }}<br />
 					{{ project.authors }}
 				</p>
+				</div>
 				{% if project.source != null %}
 				<a class="projectlink" href="{{ project.source }}">Source</a>
 				{% endif %}
+				{% if project.download != null %}
 				<a class="projectlink" href="{{ project.download }}">Download</a>
+				{% endif %}
 			</div>
 		</li>
 	{% endfor %}
