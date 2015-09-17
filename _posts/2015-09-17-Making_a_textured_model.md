@@ -10,7 +10,7 @@ So these last couple of weeks (sorry for no posts) I've been getting into the wo
 
 It's not as simple as that sadly, to get a 2D image to "wrap" correctly onto a 3D model one has to define an UV map for the 3D model. An UV map essentially defines where different parts of a 2D image should be placed on the 3D model; this can sometimes be a bit tricky. For example, how can you easily wrap a 2D image onto a 3D sphere?
 
-[![image]({{ site.url }}/images/house_model/house_uv.png)]({{ site.url }}/images/house_model/house_uv.PNG)
+[![image]({{ site.url }}/images/house_model/house_uv.PNG)]({{ site.url }}/images/house_model/house_uv.PNG)
 <p class="imageText">Diffuse texture with UV edges</p>
 
 With only the diffuse things might look a bit flat and dull. That's where a bump or a normal map comes in. A bump or normal map work a bit differently but both have the same effect: give the illusion of depth on a flat plane using incoming light. Usually you can make a bump map from the diffuse image by only doing some color correction and tweaking but for the rock base I went a step further.
