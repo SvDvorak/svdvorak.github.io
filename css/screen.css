@@ -148,6 +148,8 @@ table {
 
       .site .footer .rss img {
         border: 0;
+        width: 75%;
+        height: 75%;
       }
 
 /*****************************************************************************/
@@ -197,16 +199,17 @@ table {
       border: none;
     }
 
-  .post img {
-  }
-
-  .post img[alt=drawing], img[alt=image] {
+  .post img[alt=drawing], img[alt=image], img[alt=originalSizeImage] {
     width: 100%;
     display: block;
     margin-left: auto;
     margin-right: auto;
     border: 1px solid;
     border-color: #aaa;
+  }
+
+  .post img[alt=originalSizeImage] {
+    width: auto;
   }
 
   .post .imageText {
