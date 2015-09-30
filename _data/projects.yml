@@ -30,6 +30,13 @@
   download: https://dl.dropboxusercontent.com/u/107494599/Desert%20Miner%20II.zip
   image: desert_miner_2.png
 
+- name: Bandcamp Tag Search
+  description: Chrome plugin for finding<br />albums with multiple tags
+  authors: Andreas Wilcox
+  download: https://chrome.google.com/webstore/detail/bandcamp-tag-search/fkkbhcpcpapcgcfjmllgibbnalmpbjcm
+  source: https://github.com/SvDvorak/BandcampMultitagSearch
+  image: bandcamp_tag_search_banner.png
+
 - name: SQM Import Export
   description: Library for importing and exporting<br /> ArmA 2 & 3 SQM-files
   authors: Andreas Wilcox
