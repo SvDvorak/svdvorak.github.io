@@ -217,6 +217,10 @@ table {
     font-style: italic;
   }
 
+.viewer_instructions {
+  text-align: center;
+}
+
 .gfycontainer {
   width: 100%;
   display: block;
