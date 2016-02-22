@@ -29,4 +29,4 @@ Each time you place the same object you rotate it by 90 degrees so if you want t
 
 To create a playable level you need to have a hero & boss, press the Play button or Enter on your keyboard to try it out. Pressing Escape returns from play mode to editor. Currently you can't change health on boss or player because when we're developing we use the Unity editor to change those values. Sharing of levels is something that we're hoping to do later on but will probably take a little while.
 
-Just noticed a bug if you play a level in the editor and then go back to the main menu and start a new game, reload page and play directly in that case.
+Just noticed a bug if you play a level in the editor and then go back to the main menu and start a new game, reload page and play directly in that case. Also seems to be somewhat weird when entering editor and editor loads last used level, clear and load level again.
