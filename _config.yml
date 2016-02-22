@@ -1,6 +1,6 @@
 name: Andreas Blog
 description: Ramblings of a game developer
-url: http://localhost:4000
+url: http://svdvorak.github.io
 markdown: kramdown
 highlighter: rouge
 safe: true
