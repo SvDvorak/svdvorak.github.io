@@ -16,4 +16,6 @@ I'm kinda designing the game as I go along so there are a lot of specifics I'm s
 On to something completely different, last friday I went to the [Intel Buzz Worskhop](http://intelbuzz.bemyapp.com/stockholm/) in Stockholm and had an absolute blast. A full day of inspiring talks, interesting people and great games. The talks ranged between an introduction to VR and building a 2D game in Unreal Engine 4 to discussions on habit forming game design and how to represent hands accurately in games. And at the end you could walk around and check out the many great games developers were showing off. I can definitely recommend the event to anyone interested in game development, I'm looking forward to next years event!
 
 [![image]({{ site.url }}/images/intel_buzz_workshop_2015.jpg)]({{ site.url }}/images/intel_buzz_workshop_2015.jpg)
-<p class="imageText">A presentation about DirectX12</p>
+
+> A presentation about DirectX12
+{: .imageText }

@@ -10,18 +10,28 @@ The goal is not to become some kind of master of the arts but instead to be able
 So I thought I would share my drawings so far and hopefully I can get someone else inspired to try their hand at it. Because I must say that I have surprised myself, I'm very happy with most drawings even though some took quite a while to do. These are some of my favorites. Note that my scanner seems to make the dark areas a bit brighter than they should be. You can click the images to enlarge them.
 
 [![drawing]({{ site.url }}/images/20141231_Pre-instruction_my_hand_resized.jpg)]({{ site.url }}/images/20141231_Pre-instruction_my_hand_resized.jpg)
-<p class="imageText">Pre-instruction drawing of my hand, done before any book exercises.</p>
+
+> Pre-instruction drawing of my hand, done before any book exercises.
+{: .imageText }
 
 [![drawing]({{ site.url }}/images/20150102_Igor_Stravinsky_resized.jpg)]({{ site.url }}/images/20150102_Igor_Stravinsky_resized.jpg)
-<p class="imageText">Copied drawing of Igor Stravinsky by Pablo Picasso. The exercise was to draw it upside down to enable the right half of the brain to take charge.</p>
+
+> Copied drawing of Igor Stravinsky by Pablo Picasso. The exercise was to draw it upside down to enable the right half of the brain to take charge.
+{: .imageText }
 
 [![drawing]({{ site.url }}/images/20150108_Claw_hand_resized.jpg)]({{ site.url }}/images/20150108_Claw_hand_resized.jpg)
-<p class="imageText">Drawing of hand after some instructions, it's amazing how much a shaded background does especially when it comes to shadows and highlighting.</p>
+
+> Drawing of hand after some instructions, it's amazing how much a shaded background does especially when it comes to shadows and highlighting.
+{: .imageText }
 
 [![drawing]({{ site.url }}/images/20150109_Coordinate_system_hand_resized.jpg)]({{ site.url }}/images/20150109_Coordinate_system_hand_resized.jpg)
-<p class="imageText">Second drawing of my hand in the classic coordinate system-pose (for you computer graphics people). I'm very happy with this one, I feel like I got a lot right with it.</p>
+
+> Second drawing of my hand in the classic coordinate system-pose (for you computer graphics people). I'm very happy with this one, I feel like I got a lot right with it.
+{: .imageText }
 
 [![drawing]({{ site.url }}/images/20150113_Soffa_corner_resized.jpg)]({{ site.url }}/images/20150113_Soffa_corner_resized.jpg)
-<p class="imageText">My latest drawing, based on the exercise of two-point perspective. Took me most of the day to do but as with the previous one, I'm very happy with it.</p>
+
+> My latest drawing, based on the exercise of two-point perspective. Took me most of the day to do but as with the previous one, I'm very happy with it.
+{: .imageText }
 
 I still have ways to go until I will have reached my goal of being able to create good game art but with (a lot) more exercise I believe I will get there. As you can see on the date on the last drawing I have taken a break the last week to get started with the coding but I'll get back into it soon enough. If you feel like this is something you want to try I will once again recommend "Drawing on the Right Side of the Brain" by Betty Edwards. You might just surprise yourself.

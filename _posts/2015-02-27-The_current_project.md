@@ -10,17 +10,23 @@ I think it's high time I start talking a bit more about the project I'm working 
 The image above shows a typical scenario. There are three machines running in the power plant, one of each machine type available in the game. These generate the power output for the power plant, the total output is shown as the green bar on the wall. The dark yellow color beneath the green bar represents the required output for the city which is also shown numerically above as Min output. What you need to do as the player is to constantly expand and build new machines while maintaining optimal output on the ones you have. I have tried to make the machines work similarly to how the real ones do but I've sacrificed some realism for the sake of gameplay. Also note that all these values are completely temporary, there is a lot of adjustments to be done mostly for balance but also accuracy.
 
 <p class="gfycontainer"><img class="gfyitem" data-id="BiodegradableMellowHorseshoecrab" /></p>
-<p class="imageText">Coal machine</p>
+
+> Coal machine
+{: .imageText }
 
 The coal machine is the simplest and cheapest of the three but probably not the most powerful one, you shovel coal in and get energy out. The amount of energy you get is based on the temperature of the machine but it gets to a point of diminishing returns when you reach a certain temperature.
 
 <p class="gfycontainer"><img class="gfyitem" data-id="PlushPessimisticCorydorascatfish" /></p>
-<p class="imageText">Hydro machine</p>
+
+> Hydro machine
+{: .imageText }
 
 The hydroelectric machine is a step up in most ways. Here you control the flow of water going through the turbine where a faster flow means more power but also faster wear. The durability of the machine is shown as a percentage, the lower that number gets the higher the likelyhood that the machine will break, shutting the machine down and forcing you to wait until it repairs. So you need to balance the hydro-machines you have so that several of them are likely to break at the same time.
 
 <p class="gfycontainer"><img class="gfyitem" data-id="CalmLeafyAcornweevil" /></p>
-<p class="imageText">Nuclear machine</p>
+
+> Nuclear machine
+{: .imageText }
 
 The final and most complex machine is the nuclear one. Here you must keep the rod temperature low enough to not overheat but high enough to not lose the chain reaction. You can affect the temperature by moving the control rods (slider on the right) or by how you handle the fuel rods. As the fuel rods degrade their output gets smaller so you need to swap them out to keep the power at an optimal level.
 

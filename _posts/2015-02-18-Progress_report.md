@@ -12,20 +12,29 @@ I've got more stuff to write about so this blog should get more active but for n
 Modelling & texturing
 ---------------------
 <p class="gfycontainer"><img class="gfyitem" data-id="SafeTalkativeHornshark" /></p>
-<p class="imageText">The end result of a Blender tutorial created this monstrosity.</p>
+
+> The end result of a Blender tutorial created this monstrosity.
+{: .imageText }
 
 <p class="gfycontainer"><img class="gfyitem" data-id="HugeScaredBasilisk" /></p>
-<p class="imageText">Blender practising, inspired by <a href="http://en.wikipedia.org/wiki/Rinku_Gate_Tower_Building">Rinku Gate tower</a></p>
+> Blender practising, inspired by <a href="http://en.wikipedia.org/wiki/Rinku_Gate_Tower_Building">Rinku Gate tower</a>
+{: .imageText }
 
 More drawings
 -------------
 [![drawing]({{ site.url }}/images/20150124_John_Fhager_resized.jpg)]({{ site.url }}/images/20150124_John_Fhager_resized.jpg)
-<p class="imageText">A profile portrait of my friend John Fhager.</p>
+
+> A profile portrait of my friend John Fhager.
+{: .imageText }
 
 [![drawing]({{ site.url }}/images/20150126_Edward_Steichen_resized.jpg)]({{ site.url }}/images/20150126_Edward_Steichen_resized.jpg)
-<p class="imageText">Copy of a famous picture by Edward Steichen.</p>
+
+> Copy of a famous picture by Edward Steichen.
+{: .imageText }
 
 [![drawing]({{ site.url }}/images/20150217_Self_portrait_resized.jpg)]({{ site.url }}/images/20150217_Self_portrait_resized.jpg)
-<p class="imageText">The final assignment in the book, my personal portrait. I've come a long way.</p>
+
+> The final assignment in the book, my personal portrait. I've come a long way.
+{: .imageText }
 
 I haven't shown any actual work on the project because I want to write a more exhaustive description of it which will come in a post soon. So until then, take care!
