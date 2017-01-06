@@ -17,8 +17,9 @@ html, body {
 
 body {
   background-color: #F9F9F9;
-  font: 13.34px helvetica, arial, clean, sans-serif;
-  *font-size: small;
+  font: verdana;
+  font-size: 100%;
+  line-height: 1.5;
   text-align: center;
 }
 
@@ -74,9 +75,9 @@ table {
 /*****************************************************************************/
 
 .site {
-  font-size: 110%;
+  font-size: 100%;
   text-align: justify;
-  max-width: 42em;
+  max-width: 34em;
   margin: 3em auto 2em auto;
   padding-left: 1em;
   padding-right: 1em;
