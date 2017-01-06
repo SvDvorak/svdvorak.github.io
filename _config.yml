@@ -5,5 +5,4 @@ markdown: kramdown
 highlighter: rouge
 safe: true
 lsi: false
-source: F:\Personal\Programming\GithubPage
 paginate: 5
