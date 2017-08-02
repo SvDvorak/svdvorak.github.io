@@ -213,6 +213,14 @@ table {
     width: auto;
   }
 
+  .post img[alt=noBorderImage] {
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0px;
+  }
+
   .post .imageText {
     text-align: center;
     font-style: italic;
