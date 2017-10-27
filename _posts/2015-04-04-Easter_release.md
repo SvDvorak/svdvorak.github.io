@@ -3,7 +3,7 @@ layout: post
 title: Easter release
 ---
 
-[![image]({{ site.url }}/images/helicopter_swarm.png)]({{ site.url }}/images/helicopter_swarm.png)
+[![image](/images/helicopter_swarm.png)](/images/helicopter_swarm.png)
 
 I hope your easter has been good so far. Well, it's about to get better! Maybe. Depends on how much you love my weekly releases. This week I got a bunch of stuff done including health, game over state, score (though fixed startamount), highscore-list (only my name is shown currently), enemies and a bunch of other small tweaks. I'll stop rambling and let you try it out.
 

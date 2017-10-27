@@ -22,17 +22,17 @@ Modelling & texturing
 
 More drawings
 -------------
-[![drawing]({{ site.url }}/images/20150124_John_Fhager_resized.jpg)]({{ site.url }}/images/20150124_John_Fhager_resized.jpg)
+[![drawing](/images/20150124_John_Fhager_resized.jpg)](/images/20150124_John_Fhager_resized.jpg)
 
 > A profile portrait of my friend John Fhager.
 {: .imageText }
 
-[![drawing]({{ site.url }}/images/20150126_Edward_Steichen_resized.jpg)]({{ site.url }}/images/20150126_Edward_Steichen_resized.jpg)
+[![drawing](/images/20150126_Edward_Steichen_resized.jpg)](/images/20150126_Edward_Steichen_resized.jpg)
 
 > Copy of a famous picture by Edward Steichen.
 {: .imageText }
 
-[![drawing]({{ site.url }}/images/20150217_Self_portrait_resized.jpg)]({{ site.url }}/images/20150217_Self_portrait_resized.jpg)
+[![drawing](/images/20150217_Self_portrait_resized.jpg)](/images/20150217_Self_portrait_resized.jpg)
 
 > The final assignment in the book, my personal portrait. I've come a long way.
 {: .imageText }

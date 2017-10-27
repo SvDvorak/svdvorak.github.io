@@ -3,7 +3,7 @@ layout: post
 title: Take a friday stroll
 ---
 
-[![image]({{ site.url }}/images/city_generation_stroll.png)]({{ site.url }}/images/city_generation_stroll.png)
+[![image](/images/city_generation_stroll.png)](/images/city_generation_stroll.png)
 
 It's friday and this time I actually have something for you. Left-click in front of the machine to change direction and enjoy your stroll through the virtual city! There's no collision handling currently so it'll just pass through any buildings for now. If you want to be in the rampage mood then I recommend you play [Feuer Frei by Rammstein](https://www.youtube.com/watch?v=jVYolF1gLIY) while charging through the city.
 

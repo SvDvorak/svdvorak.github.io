@@ -9,10 +9,10 @@ I mentioned in a previous post that I was busy rewriting the code for MicroTacti
 
 For programming-interested people I'd like to add that during the rewrite I wrote tests first to ensure system functionality. Anything touching Unity is hard to test so those systems are isolated and untested but everything else is fully tested with a running total of 103 tests. And I'm currently investigating on trying to implement integration tests using state machines so I can test that all systems run correctly together. I'll probably return to that topic with a more indepth post later on if it pans out, until then you can see a basic example below.
 
-[![image]({{ site.url }}/images/Node_based_integration_test.png)]({{ site.url }}/images/Node_based_integration_test.png)
+[![image](/images/Node_based_integration_test.png)](/images/Node_based_integration_test.png)
 
 I did some sketching last friday as well while in the park, trying to learn [hatching](https://en.wikipedia.org/wiki/Hatching).
 
-[![image]({{ site.url }}/images/20150925_plant.png)]({{ site.url }}/images/20150925_plant.png)
+[![image](/images/20150925_plant.png)](/images/20150925_plant.png)
 
 A bit of everything in this post, just wanted to give a status update on how things were running along.

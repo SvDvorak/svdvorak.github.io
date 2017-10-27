@@ -3,6 +3,7 @@ description: Ramblings of a game developer
 url: http://svdvorak.github.io
 markdown: kramdown
 highlighter: rouge
-safe: true
 lsi: false
 paginate: 5
+plugins:
+- jekyll-paginate

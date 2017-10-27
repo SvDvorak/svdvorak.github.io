@@ -5,7 +5,7 @@ title: The start of a puzzle
 
 Working alone does take its toll, it can be somewhat demotivating to chug away at the project without much discussion or interaction with other people. So at the end of the last year I was given the opportunity to take in an intern for 10 weeks. More specifically Oskar Engholm, who's studying technical illustrator (teknikillustratör) in Arvika. It felt like a good change and two people (almost) always get more stuff done than one. Oskar would be with me for 10 weeks which felt like a good amount of time to do a prototype since I didn't want to throw him into MicroTactics and not have something finished after his time was over.
 
-[![image]({{ site.url }}/images/lara_croft_go_titan_souls.png)]({{ site.url }}/images/lara_croft_go_titan_souls.png)
+[![image](/images/lara_croft_go_titan_souls.png)](/images/lara_croft_go_titan_souls.png)
 
 > Lara Croft Go and Titan Souls
 {: .imageText }
@@ -14,7 +14,7 @@ So we met at the end of November and discussed the project. Oskar had a game ide
 
 The first week was a blur of cranking out work. I got simple movement working the first day but noticed immediately that it was going to be an issue to create levels in Unity alone. A level editor was needed. Luckily it turned out to be surprisingly easy to get one started and it was so much fun creating one! By the end of the week you could build a map, run it, move around the player and switch to have the boss move and attack the player. Over the christmas break I decided to clean up the code and use [Entitas](https://github.com/sschmid/Entitas-CSharp) which took a few days.
 
-[![image]({{ site.url }}/images/AMazeBoss_level_editor.gif)]({{ site.url }}/images/AMazeBoss_level_editor.gif)
+[![image](/images/AMazeBoss_level_editor.gif)](/images/AMazeBoss_level_editor.gif)
 
 > First week level editor
 {: .imageText }
@@ -23,7 +23,7 @@ The next three weeks went past with us incrementally adding features, art, anima
 
 So at the beginning of week 5 I decided to do something I should have done the first week... a paper prototype. This type of game is an incredibly good fit for a paper prototype. Armed with two new stacks of Post-its I started to create levels. It was tricky at first and the early ones were pretty simple, but with a few small tweaks to the game rules I was creating semi-complex puzzles. One of the main advantages of a paper prototype is that it's incredibly easy to alter the rules since they're all in your head anyway. Two rule changes that altered quite a bit was that the player could also get hurt by activating traps and every trap was single use.
 
-[![image]({{ site.url }}/images/AMazeBoss_release_1.png)](https://dl.dropboxusercontent.com/u/107494599/AMazeBoss/BuildWeb/index.html)
+[![image](/images/AMazeBoss_release_1.png)](https://dl.dropboxusercontent.com/u/107494599/AMazeBoss/BuildWeb/index.html)
 
 > First test release
 {: .imageText }

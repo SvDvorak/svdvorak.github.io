@@ -3,7 +3,7 @@ layout: post
 title: Small scale tactics
 ---
 
-[![image]({{ site.url }}/images/microtactics_archer_squad.png)]({{ site.url }}/images/microtactics_archer_squad.png)
+[![image](/images/microtactics_archer_squad.png)](/images/microtactics_archer_squad.png)
 
 So I'm back from my great trip to the US and I've already been hard at work. I noticed that I forgot to give you some more info on the new project I've been fiddling with before I left though, sorry about that. So here's a summary of the game: it's a small scale RTS where you control a few groups of farmers fighting against the vassals oppressing them. Focus is on micro-management of the few units you have so it's up to you to tell archers when and where to fire for example. The work in progress name MicroTactics might be a bit telling. A gif might be helpful otherwise:
 
@@ -15,7 +15,7 @@ I'm kinda designing the game as I go along so there are a lot of specifics I'm s
 
 On to something completely different, last friday I went to the [Intel Buzz Worskhop](http://intelbuzz.bemyapp.com/stockholm/) in Stockholm and had an absolute blast. A full day of inspiring talks, interesting people and great games. The talks ranged between an introduction to VR and building a 2D game in Unreal Engine 4 to discussions on habit forming game design and how to represent hands accurately in games. And at the end you could walk around and check out the many great games developers were showing off. I can definitely recommend the event to anyone interested in game development, I'm looking forward to next years event!
 
-[![image]({{ site.url }}/images/intel_buzz_workshop_2015.jpg)]({{ site.url }}/images/intel_buzz_workshop_2015.jpg)
+[![image](/images/intel_buzz_workshop_2015.jpg)](/images/intel_buzz_workshop_2015.jpg)
 
 > A presentation about DirectX12
 {: .imageText }

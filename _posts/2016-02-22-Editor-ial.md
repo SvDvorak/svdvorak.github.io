@@ -3,7 +3,7 @@ layout: post
 title: Editor-ial
 ---
 
-[![image]({{ site.url }}/images/AMazeBoss_release_2_editor.png)]({{ site.url }}/images/AMazeBoss_release_2_editor.png)
+[![image](/images/AMazeBoss_release_2_editor.png)](/images/AMazeBoss_release_2_editor.png)
 
 > [Click here to try out the latest version](https://dl.dropboxusercontent.com/u/107494599/AMazeBoss/BuildWeb/index.html)
 {: .imageText }

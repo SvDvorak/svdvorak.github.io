@@ -5,7 +5,7 @@ title: The current project
 
 I think it's high time I start talking a bit more about the project I'm working to get into the game making workflow. As I mentioned in my first post this was planned to be a shorter project, spanning two weeks or so but has already taken longer. The idea of the game came to me when I was walking past the power plant Åbyverket here in Örebro about making a game where one has to produce power to supply a city. The player has to keep up with the constantly expanding city while at the same time make sure to not overload the power plant.
 
-[![image]({{ site.url }}/images/The_Little_Power_Plant.png)]({{ site.url }}/images/The_Little_Power_Plant.png)
+[![image](/images/The_Little_Power_Plant.png)](/images/The_Little_Power_Plant.png)
 
 The image above shows a typical scenario. There are three machines running in the power plant, one of each machine type available in the game. These generate the power output for the power plant, the total output is shown as the green bar on the wall. The dark yellow color beneath the green bar represents the required output for the city which is also shown numerically above as Min output. What you need to do as the player is to constantly expand and build new machines while maintaining optimal output on the ones you have. I have tried to make the machines work similarly to how the real ones do but I've sacrificed some realism for the sake of gameplay. Also note that all these values are completely temporary, there is a lot of adjustments to be done mostly for balance but also accuracy.
 

@@ -3,7 +3,7 @@ layout: post
 title: Camp Explorer
 ---
 
-[![noBorderImage]({{ site.url }}/images/campexplorer.png)]({{ site.url }}/images/campexplorer.png)
+[![noBorderImage](/images/campexplorer.png)](/images/campexplorer.png)
 
 I'm a big fan of the music service [Bandcamp](http://bandcamp.com). There is a lot raw talent there, creating all kinds of fascinating and awesome music. But digging through the cruft to find those diamonds is tricky, especially considering the wide assortment of styles and genres. And I've found that just using the simple search function casts too wide of a net. Even the Bandcamp Discover feature, although better, does not offer me the granularity I wish for.
 
@@ -12,7 +12,7 @@ It's possible you might have read and remember [a post from almost 2 years ago](
 
 It worked even though it was kinda slow but the largest problem was the limited number of results one would get. A lot of tag combinations would return few if any results. The problem required a much larger and more complicated solution written from scratch, but would in the end return about 10 times the number of results almost instantanously. It also allowed me to put it up as a website so you could use it without having Chrome.
 
-[![noBorderImage]({{ site.url }}/images/campexplorer_screenshot.png)]({{ site.url }}/images/campexplorer.png)
+[![noBorderImage](/images/campexplorer_screenshot.png)](/images/campexplorer.png)
 
 And now it's done! Finished and ready for testing. I've been using and testing it personally for a little while now but I feel it's ready to handle more users.
 

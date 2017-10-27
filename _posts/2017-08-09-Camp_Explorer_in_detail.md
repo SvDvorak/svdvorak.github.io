@@ -4,7 +4,7 @@ title: Camp Explorer in detail
 ---
 
 
-So in the last post I gave a quick overview of my improved Bandcamp search tool and I mentioned I would get into more detail in the next post. This is that post. Give the [last one a quick read]({{ site.url }}/2017/08/02/Camp_Explorer.html) if you haven't already.
+So in the last post I gave a quick overview of my improved Bandcamp search tool and I mentioned I would get into more detail in the next post. This is that post. Give the [last one a quick read](/2017/08/02/Camp_Explorer.html) if you haven't already.
 
 Before I go into the details of the new implementation I'm going to go over how the old one worked, so you know where I started out from.
 

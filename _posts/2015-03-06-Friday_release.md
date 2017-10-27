@@ -3,9 +3,9 @@ layout: post
 title: Friday release
 ---
 
-[![image]({{ site.url }}/images/TheLittlePowerPlant_r1.png)]({{ site.url }}/images/TheLittlePowerPlant_r1.png)
+[![image](/images/TheLittlePowerPlant_r1.png)](/images/TheLittlePowerPlant_r1.png)
 
-I promised you a release yesterday and here it is! Keep in mind, the game still has quite some ways to go still. The game has no sound or music so I recommend you put something on while you play, why not [Floex](https://www.youtube.com/playlist?list=PL6D5778D485B08643) for example? Most likely it won't be very obvious how things work in the game currently so I recommend you read my [second to last blog-post]({{ site.url }}/2015/02/27/The_current_project.html) or just read through these short instructions:
+I promised you a release yesterday and here it is! Keep in mind, the game still has quite some ways to go still. The game has no sound or music so I recommend you put something on while you play, why not [Floex](https://www.youtube.com/playlist?list=PL6D5778D485B08643) for example? Most likely it won't be very obvious how things work in the game currently so I recommend you read my [second to last blog-post](/2015/02/27/The_current_project.html) or just read through these short instructions:
 
 * Click on the floor tiles (the ones in a 3x3 grid), select a machine and press build. The cost is deducted from your Income (shown on the wall)
 * The green bar on the wall is the complete output from all your machines, the orange bar is the output required by the city
