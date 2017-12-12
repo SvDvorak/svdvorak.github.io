@@ -1,0 +1,9 @@
+version: '2'
+services:
+  github-pages:
+    container_name: github-pages
+    image: starefossen/github-pages
+    ports:
+      - '4000:4000'
+    volumes:
+      - .:/usr/src/app
