@@ -20,7 +20,13 @@ title: Andreas Wilcox - Projects
 				<a class="projectlink" href="{{ project.source }}">Source</a>
 				{% endif %}
 				{% if project.download != null %}
-				<a class="projectlink" href="{{ project.download }}">Download</a>
+				<a class="projectlink" href="{{ project.download }}">
+					{% if project.useText != null %}
+					{{ project.useText }}
+					{% else %}
+					Download
+					{% endif %}
+				</a>
 				{% endif %}
 			</div>
 		</li>

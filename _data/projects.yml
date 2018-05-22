@@ -8,6 +8,7 @@
 - name: Camp Explorer
   description: Bandcamp search tool for finding<br />albums with multiple tags
   authors: Andreas Wilcox
+  useText: Link
   download: http://campexplorer.io/
   source: https://github.com/SvDvorak/CampExplorer
   image: projects/camp_explorer.png
@@ -22,6 +23,7 @@
 - name: Alida of Arx
   description: Point & click adventure game<br />Ludum Dare 41
   authors: Arx Team
+  useText: Play
   download: http://www.jsmars.com/misc/alidaofarx/
   image: projects/alida_of_arx.png
 
