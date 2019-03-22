@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Alida of Arx post jam reflections
+tags: game-dev game-jam playable
 ---
 
 [![noBorderImage](/images/AlidaOfArx_Screenshot0.jpg)](/images/AlidaOfArx_Screenshot0.jpg)

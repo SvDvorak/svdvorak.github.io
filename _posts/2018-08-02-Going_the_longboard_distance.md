@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Going the longboard distance
+tags: longboard
 ---
 
 [![noBorderImage](/images/longboard/board.jpg)](/images/longboard/board.jpg)

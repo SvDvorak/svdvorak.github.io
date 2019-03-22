@@ -1,6 +1,6 @@
 ---
-layout: post
 title: And all the other gear
+tags: longboard
 ---
 
 [![noBorderImage](/images/longboard/camping_2.jpg)](/images/longboard/camping_2.jpg)

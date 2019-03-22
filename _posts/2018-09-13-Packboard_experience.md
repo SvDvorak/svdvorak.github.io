@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Packboard experience
+tags: longboard
 ---
 
 [![noBorderImage](/images/longboard/board.jpg)](/images/longboard/board.jpg)
