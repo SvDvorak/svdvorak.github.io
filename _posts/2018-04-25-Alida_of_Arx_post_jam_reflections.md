@@ -1,6 +1,9 @@
 ---
 title: Alida of Arx post jam reflections
-tags: game-dev game-jam playable
+tags:
+- Game dev
+- Game jam
+- Playable
 ---
 
 [![noBorderImage](/images/AlidaOfArx_Screenshot0.jpg)](/images/AlidaOfArx_Screenshot0.jpg)

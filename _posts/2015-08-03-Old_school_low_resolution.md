@@ -1,6 +1,9 @@
 ---
-layout: post
 title: Old school low resolution
+tags:
+- Graphics
+- Coding
+- Game dev
 ---
 
 [![image](/images/low_res_look_shader.png)](/images/low_res_look_shader.png)

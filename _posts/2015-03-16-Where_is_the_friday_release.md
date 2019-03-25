@@ -1,6 +1,8 @@
 ---
-layout: post
 title: Where is the friday release?
+tags:
+- TLPP
+- Game dev
 ---
 
 As I mentioned last week I said I would be releasing weekly builds of the game for play. So where is it you might ask. Well, I was hoping to have the current feature I'm working on done and usable by friday but that obviously didn't happen. The feature I'm talking about is city generation.

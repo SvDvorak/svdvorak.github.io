@@ -1,6 +1,9 @@
 ---
-layout: post
 title: Easter release
+tags:
+- TLPP
+- Game dev
+- Playable
 ---
 
 [![image](/images/helicopter_swarm.png)](/images/helicopter_swarm.png)

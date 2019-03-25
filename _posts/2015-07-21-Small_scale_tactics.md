@@ -1,6 +1,8 @@
 ---
-layout: post
 title: Small scale tactics
+tags:
+- MicroTactics
+- Game dev
 ---
 
 [![image](/images/microtactics_archer_squad.png)](/images/microtactics_archer_squad.png)

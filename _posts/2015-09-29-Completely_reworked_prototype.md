@@ -1,6 +1,9 @@
 ---
-layout: post
 title: Completely reworked prototype
+tags:
+- MicroTactics
+- Game dev
+- Drawing
 ---
 
 <p class="gfycontainer"><img class="gfyitem" data-id="SpitefulBlaringBustard" /></p>

@@ -1,9 +1,10 @@
 ---
 title: Packboard experience
-tags: longboard
+tags:
+- Longboard
 ---
 
-[![noBorderImage](/images/longboard/board.jpg)](/images/longboard/board.jpg)
+![Image](/images/longboard/board.jpg)
 
 *This is a small bonus post for you really eager long distance riders.*
 

@@ -1,6 +1,9 @@
 ---
-layout: post
 title: Take a friday stroll
+tags:
+- TLPP
+- Game dev
+- Playable
 ---
 
 [![image](/images/city_generation_stroll.png)](/images/city_generation_stroll.png)

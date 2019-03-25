@@ -1,6 +1,8 @@
 ---
-layout: post
 title: Progress report
+tags:
+- Modelling
+- Drawing
 ---
 
 Gosh, it's been a while hasn't it? It is high time for me to write a little about what I've been doing the last couple of weeks. As I mentioned in the first post I'm currently working on a shorter project to learn and get into the tools and workflow for creating a game. I'll write more about that project in an upcoming post but I'll take a moment to go through what tools I am using. My main tool is Unity, the game engine I've chosen to use. I keep being impressed by it, there is so much functionality crammed into it yet it's so easy to use and I love that it lets me use C# code.

@@ -1,6 +1,7 @@
 ---
 title: And all the other gear
-tags: longboard
+tags:
+- Longboard
 ---
 
 [![noBorderImage](/images/longboard/camping_2.jpg)](/images/longboard/camping_2.jpg)

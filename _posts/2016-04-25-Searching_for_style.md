@@ -1,6 +1,8 @@
 ---
-layout: post
 title: Searching for style
+tags:
+- A Maze Boss
+- Game dev
 ---
 
 The first few weeks after the last post I was busy figuring out the ins and outs of tax law and all that jazz with having a company. It was actually pretty interesting but probably not fun enough to go over here. Last week though has been a bit different. As I'm going forward to make A Maze Boss into a full game I've been thinking of ways to improve it and the first thing I wanted to nail was the visual style. More specifically, even though I loved the way the platforms floated in the air I wasn't happy with how the walls below the floor tiles looked and performed.

@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Bringing back early 3D
+tags:
+- Game dev
 ---
 
 [![image](/images/dungeon_of_the_endless.png)](/images/dungeon_of_the_endless.png)

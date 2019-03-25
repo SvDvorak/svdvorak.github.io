@@ -1,6 +1,9 @@
 ---
-layout: post
 title: The 10 week prototype
+tags:
+- A Maze Boss
+- Game dev
+- Playable
 ---
 
 And so it has come to an end. The 10 weeks me and Oskar had to create a prototype of a game has come and gone. But we did manage to create something, a game that was much more feature-complete than we initially thought possible. We really crammed the last stuff in before calling it done, though the plan was to release on sunday a couple bugs and issues delayed it until today.

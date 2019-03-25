@@ -1,6 +1,7 @@
 ---
-layout: post
 title: What's been going on
+tags:
+- General
 ---
 
 It's been a while hasn't it? I wish I could say that I've been hunkering down, working hard the last two months but that would sadly not be the truth. Well, at first I was. Then I got a fever which took a week to go away but I still felt more tired than usual and it made it hard to work. It wasn't until a week after the fever, on wednesday the 29th of May, when I stumbled upon a friend on my way to [Guerilla Office](http://www.meetup.com/Guerilla-Office-OREBRO/) where he mentioned something odd; he noticed that I was looking yellow. Literally, yellow. My skin and my eyes and a yellow hue that I hadn't noticed while staying indoors but was pretty clear when standing in sunlight. I stayed home that day instead and went to the hospital the next day which kicked off this entire roller coaster ride I've been on.

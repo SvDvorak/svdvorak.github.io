@@ -1,6 +1,8 @@
 ---
-layout: post
 title: The current project part II
+tags:
+- TLPP
+- Game dev
 ---
 
 Two quick notes before I get into the meat of this post. One, I'm going to try to put up work in progress versions of the game each week so tomorrow (friday) you'll be able to play the part described in the last post. Do note that the game is still pretty rough, I hoped I would get further during the last two weeks. Second, this post will get spoilery so if you're looking to play the game with fresh eyes then I'd recommend you to skip this one.

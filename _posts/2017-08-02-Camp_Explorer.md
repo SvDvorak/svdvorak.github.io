@@ -1,6 +1,9 @@
 ---
-layout: post
 title: Camp Explorer
+tags:
+- Camp Explorer
+- Bandcamp
+- Coding
 ---
 
 [![noBorderImage](/images/campexplorer.png)](/images/campexplorer.png)

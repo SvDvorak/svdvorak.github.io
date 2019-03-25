@@ -1,6 +1,9 @@
 ---
-layout: post
 title: Reboxing an usb hub
+tags:
+- Woodworking
+- DIY
+- Electronics
 ---
 
 Is reboxing a word? It should be. While I was buying the previously mentioned [USB game pad](/2015/08/20/_Creating_a_game_controller.html) I also stumbled upon a small but terribly ugly USB hub. It was cheap so I got the idea to simply make a new case out of wood. Should be simple enough.

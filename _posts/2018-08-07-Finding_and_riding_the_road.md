@@ -1,6 +1,7 @@
 ---
 title: Finding and riding the road
-tags: longboard
+tags:
+- Longboard
 ---
 
 [![noBorderImage](/images/longboard/riding_3.jpg)](/images/longboard/riding_3.jpg)

@@ -1,6 +1,7 @@
 ---
-layout: post
 title: I choose time
+tags:
+- General
 ---
 
 "Time is money" is a pretty common cliché that gets repeated at regular intervals. The main point of the expression is usually to minimize costs by decreasing the time spent doing things. I have under the last couple of years started to see the expression from another perspective where it instead symbolizes how you spend your hard earned money. Many spend their excess income on cars, gadgets, parties, travel, large houses, etc. Which of course there is nothing wrong with but very few decide to spend their hard-earned money to get more time. Time that could be used to follow your dreams. That is what I decided to do on the 19th of december when I quit my job as a programming IT-consultant to instead live of my saved money and bet large on my dream job, making games.

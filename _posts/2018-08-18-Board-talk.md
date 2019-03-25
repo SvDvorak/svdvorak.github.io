@@ -1,6 +1,7 @@
 ---
 title: Board-talk
-tags: longboard
+tags:
+- Longboard
 ---
 
 [![noBorderImage](/images/longboard/pack_and_board.jpg)](/images/longboard/pack_and_board.jpg)
