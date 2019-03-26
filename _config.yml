@@ -18,7 +18,7 @@ url     : https://www.anwilc.com # the base hostname & protocol for your site e.
 baseurl : # does not include hostname
 title   : Anwilc
 description: > # this means to ignore newlines until "Language & timezone"
-  Company page for Anwilc, the consulting and game development extraordinaire
+  Anwilc, the consulting, 3D printing and game development company
 
 
 ## => Language and Timezone
@@ -37,7 +37,7 @@ author:
   bio       : Anwilc is the company run by Andreas Wilcox who does a bit of everything; coding, 3D printing, game development
   email     : # TODO: GET A PROPER EMAIL ON THE DOMAIN
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  twitter   : svdvorak
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
