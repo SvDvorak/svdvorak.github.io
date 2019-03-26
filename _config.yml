@@ -71,7 +71,8 @@ excerpt_separator: <!--more-->
 # excerpt_type: html
 
 ## license
-license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
+#license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
+license: false
 
 ## TOC
 toc:
@@ -198,6 +199,11 @@ exclude:
   - /screenshots
   - /test
   - /vendor
+
+#collections_dir: 
+collections:
+  projects:
+    output: true
 
 defaults:
   - scope:
