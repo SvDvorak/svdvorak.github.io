@@ -212,12 +212,17 @@ defaults:
     values:
       layout: article
       sharing: true
-      license: true
+      license: false
       aside:
         toc: true
-      show_edit_on_github: true
+      show_edit_on_github: false
       show_subscribe: true
       pageview: true
+  - scope:
+      path: ""
+      type: projects
+    values:
+      nav_key: projects
 
 
 ## => Plugins
