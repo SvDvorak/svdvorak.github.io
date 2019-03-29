@@ -41,13 +41,13 @@ cover: /images/projects/puzzle_kids.png
 <div class="grid-container">
 <div class="grid image-grid grid--p-1">
 <div class="cell cell--12 cell--md-4 cell--lg-4" markdown="1">
-![Image](/images/projects/puzzle_kids/screenshot_1.png "Screenshot")
+[![Image](/images/projects/puzzle_kids/screenshot_1.png "Screenshot")](/images/projects/puzzle_kids/screenshot_1.png)
 </div>
 <div class="cell cell--12 cell--md-4 cell--lg-4" markdown="1">
-![Image](/images/projects/puzzle_kids/screenshot_2.png "Screenshot")
+[![Image](/images/projects/puzzle_kids/screenshot_2.png "Screenshot")](/images/projects/puzzle_kids/screenshot_2.png)
 </div>
 <div class="cell cell--12 cell--md-4 cell--lg-4" markdown="1">
-![Image](/images/projects/puzzle_kids/screenshot_3.png "Screenshot")
+[![Image](/images/projects/puzzle_kids/screenshot_3.png "Screenshot")](/images/projects/puzzle_kids/screenshot_3.png)
 </div>
 </div>
 </div>
