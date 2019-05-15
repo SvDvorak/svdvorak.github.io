@@ -4,6 +4,7 @@ tags:
 - TLPP
 - Game dev
 - Playable
+aside: false
 ---
 
 <p class="gfycontainer"><img class="gfyitem" data-id="EdibleLankyBluegill" /></p>

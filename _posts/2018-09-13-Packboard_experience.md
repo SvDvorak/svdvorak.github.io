@@ -1,7 +1,9 @@
 ---
 title: Packboard experience
+cover: /images/longboard/board.jpg
 tags:
 - Longboard
+aside: false
 ---
 
 ![Image](/images/longboard/board.jpg)

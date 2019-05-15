@@ -1,8 +1,10 @@
 ---
 title: Creating a game controller
+cover: /images/custom_controller/test_board_front.jpg
 tags:
 - Electronics
 - DIY
+aside: false
 ---
 
 Considering how technical that last post got I thought I should add something more easily digestable. Like the current side project I have where I'm creating my own game controller! Why would one ever want to do that you might ask.

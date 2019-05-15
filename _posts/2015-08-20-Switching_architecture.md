@@ -3,6 +3,7 @@ title: Switching architecture
 tags:
 - Game dev
 - Coding
+aside: false
 ---
 
 As I mentioned in the last post I've been rewriting the code in MicroTactics because well... it was pretty terrible. It started as a prototype which meant I just crammed functionality in as I went along so when I wanted to add AI squads the player input code was so tangled with the squad code that it would require quite a rewrite anyway. And I've become a big proponent of [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) in my previous job so I was hoping to do that in Unity now that I was rewriting anyway.

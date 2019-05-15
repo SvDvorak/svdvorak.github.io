@@ -1,7 +1,9 @@
 ---
 title: Practice modelling
+cover: /images/npc_41_model_wip_1.png
 tags:
 - Modelling
+aside: false
 ---
 
 {% include /3d-view.html %}

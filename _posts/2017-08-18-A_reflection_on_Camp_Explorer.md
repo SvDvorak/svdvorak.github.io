@@ -4,6 +4,7 @@ tags:
 - Camp Explorer
 - Bandcamp
 - Coding
+aside: false
 ---
 
 In the last post I went into detail on how Camp Explorer is implemented and why. I figured I'll write the last post as a reflection on what worked and what I've learned. Starting with the latter:

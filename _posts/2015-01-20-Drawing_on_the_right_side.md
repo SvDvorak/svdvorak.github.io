@@ -1,7 +1,9 @@
 ---
 title: Drawing on the right side
+cover: /images/20150109_Coordinate_system_hand_resized.jpg
 tags:
 - Drawing
+aside: false
 ---
 
 I have always struggled with drawing. I never could get anything to look like I wanted it to no matter how I tried, I would just become frustrated and give up. In the end I chalked it up to not having any talent and gave it up wholesale. It's not until recent years that I've come to the conclusion that I can learn pretty much anything if I just put my mind to it. So, now that I've started with game development I decided I would learn to draw and model (in the case of 2D or 3D respectively) to create content for the games myself.

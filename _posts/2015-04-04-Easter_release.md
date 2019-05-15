@@ -1,9 +1,11 @@
 ---
 title: Easter release
+cover: /images/helicopter_swarm.png
 tags:
 - TLPP
 - Game dev
 - Playable
+aside: false
 ---
 
 [![image](/images/helicopter_swarm.png)](/images/helicopter_swarm.png)

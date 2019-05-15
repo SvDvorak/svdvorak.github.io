@@ -3,6 +3,7 @@ title: Consulting
 tags:
 - General
 - Consulting
+aside: false
 ---
 
 A few weeks after the last post I got quite a dramatic change in my daily work. More specifically, I got a fantastic full time consulting opportunity which I decided to take so then since I've been busy programming more standard business software.

@@ -1,8 +1,10 @@
 ---
 title: The current project
+cover: /images/The_Little_Power_Plant.png
 tags:
 - TLPP
 - Game dev
+aside: false
 ---
 
 I think it's high time I start talking a bit more about the project I'm working to get into the game making workflow. As I mentioned in my first post this was planned to be a shorter project, spanning two weeks or so but has already taken longer. The idea of the game came to me when I was walking past the power plant Åbyverket here in Örebro about making a game where one has to produce power to supply a city. The player has to keep up with the constantly expanding city while at the same time make sure to not overload the power plant.

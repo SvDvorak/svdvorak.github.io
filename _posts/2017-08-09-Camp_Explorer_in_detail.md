@@ -4,6 +4,7 @@ tags:
 - Camp Explorer
 - Bandcamp
 - Coding
+aside: false
 ---
 
 

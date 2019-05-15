@@ -1,11 +1,13 @@
 ---
 title: Checking in
+cover: /images/AMazeBoss_clouds.png
 tags:
 - General
 - Game jam
 - Game dev
 - Teaching
 - A Maze Boss
+aside: false
 ---
 
 It's been a long time since my last update. When you get out of a rythm it's hard to get into it I've noticed; not that I was updating frequently before that really. A few things have happened since last time: my company is now registered (though haven't registered a name yet), [I was part of Castle Game Jam and worked on Dave's Theory Of Gravity](http://www.castlegamejam.com/en/2016/teams/graviteam/), I rode my longboard from Örebro to Gothenburg and obviously continued work on A Maze Boss (still a work in progress name).

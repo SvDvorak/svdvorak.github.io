@@ -1,9 +1,11 @@
 ---
 title: Take a friday stroll
+cover: /images/city_generation_stroll.png
 tags:
 - TLPP
 - Game dev
 - Playable
+aside: false
 ---
 
 [![image](/images/city_generation_stroll.png)](/images/city_generation_stroll.png)

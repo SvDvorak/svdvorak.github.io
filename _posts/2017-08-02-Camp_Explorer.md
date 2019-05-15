@@ -1,9 +1,11 @@
 ---
 title: Camp Explorer
+cover: /images/campexplorer.png
 tags:
 - Camp Explorer
 - Bandcamp
 - Coding
+aside: false
 ---
 
 [![noBorderImage](/images/campexplorer.png)](/images/campexplorer.png)

@@ -1,7 +1,9 @@
 ---
 title: Going the longboard distance
+cover: /images/longboard/board.jpg
 tags:
 - Longboard
+aside: false
 ---
 
 [![noBorderImage](/images/longboard/board.jpg)](/images/longboard/board.jpg)
