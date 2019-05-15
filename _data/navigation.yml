@@ -1,9 +1,9 @@
 header:
-  - title: Archive
-    url: /archive.html
-
-  - title: Projects
-    url: /projects.html
-
   - title: About
-    url: /about.html
+    url: /
+
+  - title: Writing
+    url: /writing/index.html
+
+  - title: CV
+    url: /cv.html

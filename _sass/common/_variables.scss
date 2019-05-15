@@ -13,10 +13,8 @@ $base: (
   font-family-code:       (Menlo, Monaco, Consolas, Andale Mono, lucida console, Courier New, monospace),
   font-color:             #A1A1A1,
 
-  font-size-root:         18px,
-  font-size-root-sm:      15px,
-
-  font-size-header-title: 3rem,
+  font-size-root:         15px,
+  font-size-root-sm:      13px,
 
   font-size-xl:           1.5rem,
   font-size-lg:           1.25rem,
@@ -60,7 +58,7 @@ $base: (
   font-size-h6-xs:        .85rem,
 
   font-weight:            400,
-  font-weight-bold:       700,
+  font-weight-bold:       400,
 
   line-height-xl:         2,
   line-height-lg:         1.8,
@@ -150,7 +148,7 @@ $button: (
 );
 
 $image: (
-  width-xl:  20em,
+  width-xl:  21em,
   width-lg:  16rem,
   width:     12rem,
   width-sm:  8rem,

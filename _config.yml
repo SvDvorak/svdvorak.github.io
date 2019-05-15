@@ -59,8 +59,10 @@ repository_tree: master
 ##############################
 paths:
   root    : # title link url, "/" (default)
-  home    : # home layout url, "/" (default)
-  archive : # "/archive.html" (default)
+  home    : /writing/ # home layout url, "/" (default)
+  #archive : # "/archive.html" (default)
+  writing : /writing/
+  cv      : /cv
   rss     : # "/feed.xml" (default)
 
 
@@ -95,7 +97,7 @@ chart: # false (default), true
 ## => Paginate
 ##############################
 paginate: 8
-paginate_path: /page:num # don't change this unless for special need
+paginate_path: /writing/page:num # don't change this unless for special need
 
 
 ## => Sources
@@ -197,13 +199,14 @@ exclude:
   - /docs
   - /node_modules
   - /screenshots
-  - /test
+  #- /test
   - /vendor
 
+# TODO: What to do with projects collection?
 #collections_dir: 
-collections:
-  projects:
-    output: true
+#collections:
+  #projects:
+    #output: true
 
 defaults:
   - scope:
@@ -218,11 +221,11 @@ defaults:
       show_edit_on_github: false
       show_subscribe: true
       pageview: true
-  - scope:
-      path: ""
-      type: projects
-    values:
-      nav_key: projects
+  #- scope:
+      #path: ""
+      #type: projects
+    #values:
+      #nav_key: projects
 
 
 ## => Plugins
