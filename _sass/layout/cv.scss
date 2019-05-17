@@ -1,0 +1,25 @@
+.cv {
+  @include flexbox();
+
+  .skills {
+    margin-top: 2rem;
+    margin-left: 6rem;
+
+    padding: 1rem;
+    padding-right: 0;
+
+    ul {
+      margin-left: 2rem;
+      list-style: square;
+    }
+  }
+
+  @include media-breakpoint-down(md) {
+    flex-flow: column;
+
+    .skills {
+      margin-top: 1rem;
+      margin-left: 0;
+    }
+  }
+}
