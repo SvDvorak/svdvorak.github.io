@@ -1,6 +1,10 @@
 ---
 layout: cv
 
+introTitle: Hi, I'm Andreas Wilcox
+introText:
+  I'm a tech enthusiast that loves to do anything creative. Mainly focused on programming but I also make games, 3D model, 3D print and create things out of wood; essentially if I get to create something I take on most challenges.
+
 skillLevels:
   - level: Proficient
     skills:
@@ -16,38 +20,7 @@ skillLevels:
       - HTML & CSS
       - Angular
       - WPF
-  # - level: Extensive
-  #   skills:
-  #     - C#
-  #     - Unity3D
-  #     - Blender
-  #     - Test Driven Development
-  #     - Agile
-  # - level: Moderate
-  #   skills:
-  #     - Git
-  #     - Typescript
-  #     - Javascript
-  #     - WPF
-  #     - HTML
-  #     - CSS
-  #     - Angular
-  #     - Docker
-  #     - 3D printing
-  #     - Slic3r
-  # - level: Light
-  #   skills:
-  #     - C++
-  #     - Photoshop
-  #     - Nginx
-  #     - Fusion360
 ---
-## Hi, I'm Andreas Wilcox
-I'm a tech enthusiast that loves to do anything creative. Mainly focused on programming but I also make games, 3D model, 3D print and create things out of wood; essentially if I get to create something I take on most challenges.
-
-<br />
-<br />
-
 ## Anwilc
 In July 2016 I founded my own company for doing consulting work. These are some of contracts I've had.
 <br />

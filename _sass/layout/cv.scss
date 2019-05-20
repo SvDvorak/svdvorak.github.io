@@ -1,9 +1,35 @@
+// Firefox and Edge printing sucks and can't handle flexbox it seems.
+// So have to remove flexbox from everything when printing
+@media print {
+  div {
+    display: block !important;
+  }
+}
+
 .cv {
   @include flexbox();
 
+  ///
+  @include flex-flow(row wrap);
+
+  & > * {
+    flex: 1 100%;
+  }
+
+  .aside {
+    flex: 1 0 0;
+  }
+
+  .intro_text {
+    flex-grow: 3;
+  }
+
   .skills {
+    @include flexbox();
+    @include flex-flow(column);
+
     margin-top: 2rem;
-    margin-left: 6rem;
+    margin-left: 4rem;
 
     padding: 1rem;
     padding-right: 0;
@@ -11,6 +37,10 @@
     ul {
       margin-left: 2rem;
       list-style: square;
+    }
+    
+    div {
+      margin: 1rem;
     }
   }
 
@@ -20,6 +50,12 @@
     .skills {
       margin-top: 1rem;
       margin-left: 0;
+
+      @include flex-flow(row);
+
+      div {
+        margin: 2rem;
+      }
     }
   }
 }
