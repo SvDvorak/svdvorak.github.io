@@ -3,10 +3,6 @@ layout: page
 ---
 
 <div class="cv">
-    <div class="intro_text aside">
-        <h2>{{ page.introTitle }}</h2>
-        <p>{{ page.introText }}</p>
-    </div>
     <div class="skills aside">
         {%- for skillLevel in page.skillLevels -%}
         <div>
