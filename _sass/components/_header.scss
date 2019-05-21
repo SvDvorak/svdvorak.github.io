@@ -1,5 +1,4 @@
 .header {
-  //background: $header-background;
   a {
     font-weight: map-get($base, font-weight);
     text-decoration: none !important;
@@ -9,9 +8,6 @@
     @include flexbox();
     @include flex-direction(column);
     @include align-items(center);
-    // @include media-breakpoint-down(md) {
-    //   @include flex-direction(row);
-    // }
   }
 }
 
@@ -55,9 +51,6 @@
   & > .search-button {
     display: none;
     margin-left: map-get($spacers, 2);
-    // @include media-breakpoint-down(md) {
-    //   @include flexbox();
-    // }
   }
 }
 
@@ -99,11 +92,9 @@
     @include media-breakpoint-down(md) {
       height: auto;
     }
-    // .search-button {
-    //   @include media-breakpoint-down(md) {
-    //     display: none;
-    //   }
-    // }
+    .search-button {
+      background-color: $background-color;
+    }
   }
 }
 

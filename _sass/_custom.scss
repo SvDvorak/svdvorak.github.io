@@ -22,3 +22,7 @@
     font-size: map-get($base, font-size);
   }
 }
+
+.footer {
+  background: $background-color;
+}
