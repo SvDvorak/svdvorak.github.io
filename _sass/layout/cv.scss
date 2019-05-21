@@ -6,49 +6,29 @@
   }
 }
 
-.cv {
+.skills {
   @include flexbox();
+  @include flex-flow(row);
+  @include justify-content(center);
 
-  ///
-  @include flex-flow(column);
+  padding: 1rem;
 
-  & > * {
-    flex: 1 100%;
+  ul {
+    margin-left: 2rem;
+    list-style: square;
   }
-
-  .intro_text {
-    flex-grow: 3;
-  }
-
-  .skills {
-    @include flexbox();
-    @include flex-flow(row);
-    @include justify-content(center);
-
-    margin-top: 2rem;
-
-    padding: 1rem;
-    padding-right: 0;
-
-    ul {
-      margin-left: 2rem;
-      list-style: square;
-    }
-    
-    div {
-      margin: 0 3rem;
-    }
+  
+  div {
+    margin: 0 3rem;
   }
 
   @include media-breakpoint-down(md) {
-    .skills {
-      margin-top: 1rem;
+    @include flex-flow(column);
+    padding: 0rem;
+    padding-bottom: 1rem;
 
-      @include flex-flow(column);
-
-      div {
-        margin: 1rem;
-      }
+    div {
+      margin: 0rem;
     }
   }
 }

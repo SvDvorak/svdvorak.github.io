@@ -1,25 +1,39 @@
 ---
-layout: cv
-
-skillLevels:
-  - level: Proficient
-    skills:
-      - C#
-      - Unity3D
-      - Blender
-      - ATDD
-  - level: Knowledgable
-    skills:
-      - Git
-      - Typescript
-      - Docker
-      - HTML & CSS
-      - Angular
-      - WPF
+layout: page
 ---
 ## Hi, I'm Andreas Wilcox
-I'm a tech enthusiast that loves to do anything creative. Mainly focused on programming but I also make games, 3D model, 3D print and create things out of wood; essentially if I get to create something I take on most challenges.
+I'm a enthusiast of all things tech that loves to do anything creative. I may be mainly focused on programming but I also make games, 3D model, 3D print and create things out of wood; essentially if I get to create something I take on most challenges.
+
+I always strive to learn new things by understanding how they work, why they work the way the do, how I can use them and why I should use them. What that means is that I dabble in a lot of different things as you could probably tell by the previous paragraph.
+
+Still I am meticulous in whatever I do, I push for quality at all times. Though I know from experience that there is a balance you must find between making something great and getting it out the door.
+
+Below are some, but not all, of the skills I bring to the table.
 <br />
+<br />
+
+<div class="skills">
+  <div>
+    <h3>Proficient</h3>
+    <ul>
+        <li>C#</li>
+        <li>Unity3D</li>
+        <li>Blender</li>
+        <li>ATDD</li>
+    </ul>
+  </div>
+  <div>
+    <h3>Knowledgeable</h3>
+    <ul>
+        <li>Git</li>
+        <li>Typescript</li>
+        <li>Docker</li>
+        <li>HTML & CSS</li>
+        <li>Angular</li>
+        <li>WPF</li>
+    </ul>
+  </div>
+</div>
 <br />
 
 ## Anwilc
