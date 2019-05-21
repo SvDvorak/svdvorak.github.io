@@ -18,7 +18,7 @@ url     : https://www.anwilc.com # the base hostname & protocol for your site e.
 baseurl : # does not include hostname
 title   : Anwilc
 description: > # this means to ignore newlines until "Language & timezone"
-  Anwilc, the consulting, 3D printing and game development company
+  Anwilc, the root of all things Andreas Wilcox
 
 
 ## => Language and Timezone
@@ -35,7 +35,7 @@ author:
   url       : http://www.anwilc.com
   avatar    : # path or url of avatar image (square)
   bio       : Anwilc is the company run by Andreas Wilcox who does a bit of everything; coding, 3D printing, game development
-  email     : # TODO: GET A PROPER EMAIL ON THE DOMAIN
+  email     : wilcox.andreas@gmail.com # TODO: GET A PROPER EMAIL ON THE DOMAIN
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : svdvorak
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
@@ -44,8 +44,8 @@ author:
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  linkedin  : andreas-wilcox-788a912b
+  github    : svdvorak
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
@@ -60,7 +60,7 @@ repository_tree: master
 paths:
   root    : # title link url, "/" (default)
   home    : /writing/ # home layout url, "/" (default)
-  #archive : # "/archive.html" (default)
+  archive : # "/archive.html" (default)
   writing : /writing/
   cv      : /cv
   rss     : # "/feed.xml" (default)
@@ -157,7 +157,7 @@ pageview:
 ## => Search
 ##############################
 search:
-  provider: default # "default" (default), false, "google", "custom"
+  provider: # "default" (default), false, "google", "custom"
   # TODO: Add duck duck go for search provider
 
   ## Google Custom Search Engine
@@ -168,8 +168,7 @@ search:
 ## => Analytics
 ##############################
 analytics:
-  provider: false # false (default), "google", "custom"
-  # TODO: Add custom search provider
+  provider: "custom" # false (default), "google", "custom"
 
   ## Google Analytics
   google:
@@ -183,7 +182,6 @@ markdown    : kramdown
 highlighter : rouge
 permalink   : date
 
-# TODO: Remove non-used excludes and add missing ones
 exclude:
   - CHANGELOG.md
   - HOW_TO_RELEASE.md
@@ -199,14 +197,7 @@ exclude:
   - /docs
   - /node_modules
   - /screenshots
-  #- /test
   - /vendor
-
-# TODO: What to do with projects collection?
-#collections_dir: 
-#collections:
-  #projects:
-    #output: true
 
 defaults:
   - scope:
@@ -221,11 +212,6 @@ defaults:
       show_edit_on_github: false
       show_subscribe: true
       pageview: true
-  #- scope:
-      #path: ""
-      #type: projects
-    #values:
-      #nav_key: projects
 
 
 ## => Plugins
