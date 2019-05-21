@@ -45,8 +45,7 @@
   }
 
   h1 {
-      // TODO: USE VARIABLES RIGHT?
-    font-size: 3.5rem;
+    font-size: map-get($base, font-size-xl) * 2;
   }
 
   & > * {
