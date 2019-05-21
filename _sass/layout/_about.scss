@@ -28,6 +28,10 @@
   @include flexbox();
   @include flex-flow(row wrap);
 
+  &:nth-child(even) {
+    @include flex-flow(row-reverse wrap);
+  }
+
   img {
     display: block;
     width: 100%;
