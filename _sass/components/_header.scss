@@ -38,11 +38,11 @@
   @include flex(1);
   height: map-get($layout, header-height);
   margin-right: map-get($spacers, 5);
-  margin-top: map-get($spacers, 5);
+  margin-top: map-get($spacers, 5) * 2;
   white-space: nowrap;
   @include media-breakpoint-down(md) {
     height: map-get($layout, header-height-sm);
-    margin-top: map-get($spacers, 3);
+    margin-top: map-get($spacers, 3) * 2;
     margin-right: 0;
   }
   & > .header__brand {
