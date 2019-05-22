@@ -158,7 +158,7 @@ pageview:
 ## => Search
 ##############################
 search:
-  provider: # "default" (default), false, "google", "custom"
+  provider: "default" # "default" (default), false, "google", "custom"
   # TODO: Add duck duck go for search provider
 
   ## Google Custom Search Engine
