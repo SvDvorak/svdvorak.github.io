@@ -1,37 +1,67 @@
 ---
 layout: page
 ---
+{%- assign _author = site.author -%}
+
 ## Hi, I'm Andreas Wilcox
-I'm a enthusiast of all things tech that loves to do anything creative. I may be mainly focused on programming but I also make games, 3D model, 3D print and create things out of wood; essentially if I get to create something I take on most challenges.
-
-I always strive to learn new things by understanding how they work, why they work the way the do, how I can use them and why I should use them. What that means is that I dabble in a lot of different things as you could probably tell by the previous paragraph.
-
-Still I am meticulous in whatever I do, I push for quality at all times. Though I know from experience that there is a balance you must find between making something great and getting it out the door.
-
-Below are some, but not all, of the skills I bring to the table.
-<br />
-<br />
-
-<div class="skills">
-  <div>
-    <h3>Proficient</h3>
-    <ul>
-        <li>C#</li>
-        <li>Unity3D</li>
-        <li>Blender</li>
-        <li>ATDD</li>
-    </ul>
+<div class="split">
+  <div class="intro_text">
+    <p>I'm a enthusiast of all things tech that loves to do anything creative. I may be mainly focused on programming but I also make games, 3D model, 3D print and create things out of wood; essentially if I get to create something I take on most challenges.</p>
+    <p>I always strive to learn new things by understanding how they work, why they work the way the do, how I can use them and why I should use them. What that means is that I dabble in a lot of different things as you could probably tell by the previous paragraph.</p>
+    <p>Still I am meticulous in whatever I do, I push for quality at all times. Though I know from experience that there is a balance you must find between making something great and getting it out the door.</p>
+    <div class="contacts_text">
+      <p><b>Mail</b>: {{ _author.email }}</p>
+      <p><b>Github</b>: https://github.com/{{ _author.github }}</p>
+      <p><b>LinkedIn</b>: https://www.linkedin.com/in/{{ _author.linkedin }}</p>
+      <p><b>Twitter</b>: https://twitter.com/{{ _author.twitter }}</p>
+    </div>
+    <br />
+    <div class="author-links d-print-none">
+      <ul class="menu menu--nowrap menu--inline">
+        <li class="author_link" title="{{ _locale_string_email }}">
+          <a class="button button--circle mail-button" itemprop="email" href="mailto:{{ _author.email }}" target="_blank">
+            <i class="fas fa-envelope"></i>
+          </a>
+        </li>
+        <li class="author_link" title="{{ _locale_string_follow | replace: '[NAME]', 'Github' }}">
+          <a class="button button--circle github-button" itemprop="sameAs" href="https://github.com/{{ _author.github }}" target="_blank">
+            <div class="icon">{%- include svg/icon/social/github.svg -%}</div>
+          </a>
+        </li>
+        <li class="author_link" title="{{ _locale_string_follow | replace: '[NAME]', 'Linkedin' }}">
+          <a class="button button--circle linkedin-button" itemprop="sameAs" href="https://www.linkedin.com/in/{{ _author.linkedin }}" target="_blank">
+            <div class="icon">{%- include svg/icon/social/linkedin.svg -%}</div>
+          </a>
+        </li>
+        <li class="author_link" title="{{ _locale_string_follow | replace: '[NAME]', 'Twitter' }}">
+          <a class="button button--circle twitter-button" itemprop="sameAs" href="https://twitter.com/{{ _author.twitter }}" target="_blank">
+            <div class="icon">{%- include svg/icon/social/twitter.svg -%}</div>
+          </a>
+        </li>
+      </ul>
+    </div>
   </div>
-  <div>
-    <h3>Knowledgeable</h3>
-    <ul>
-        <li>Git</li>
-        <li>Typescript</li>
-        <li>Docker</li>
-        <li>HTML & CSS</li>
-        <li>Angular</li>
-        <li>WPF</li>
-    </ul>
+  <div class="skills">
+    <div>
+      <h3>Proficient</h3>
+      <ul>
+          <li>C#</li>
+          <li>Unity3D</li>
+          <li>Blender</li>
+          <li>ATDD</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Knowledgeable</h3>
+      <ul>
+          <li>Git</li>
+          <li>Typescript</li>
+          <li>Docker</li>
+          <li>HTML & CSS</li>
+          <li>Angular</li>
+          <li>WPF</li>
+      </ul>
+    </div>
   </div>
 </div>
 <br />
@@ -116,7 +146,7 @@ My solution to the problem of finding new and exciting music on the Bandcamp web
 
 Without a way of searching for several genres I created my own search service which keeps it's own database cache of Bandcamps music and quickly returns back results on whatever searches the user does. It was also a good exercise for me to learn Javascript, Node, Jasmine, Elasticsearch, Docker and Nginx.
 
-[campexplorer.io](http://campexplorer.io)
+[Camp Explorer](http://campexplorer.io)
 <br />
 <br />
 
