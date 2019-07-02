@@ -32,6 +32,10 @@
     @include flex-flow(row-reverse wrap);
   }
 
+  @include media-breakpoint-down(md) {
+    @include flex-flow(column);
+  }
+
   img {
     display: block;
     width: 100%;
@@ -55,6 +59,7 @@
   .about__title_top {
     display: none;
     padding: 0 1rem;
+
     @include media-breakpoint-down(md) {
       display: flex;
     }
@@ -62,28 +67,53 @@
 
   .about__title_text {
     display: flex;
+
     @include media-breakpoint-down(md) {
       display: none;
     }
   }
 
   .about__main {
-    padding: 0 1rem;
-    flex-basis: 60%;
+    @include flex(2 0 0);
+
+    & > * {
+      padding: 0 1rem;
+    }
+
     @include media-breakpoint-down(md) {
-      flex-basis: auto;
+      flex: auto;
     }
 
     ul {
-      padding-left: 1rem;
+      margin-left: 2rem;
     }
   }
 
   .about__side {
+    @include flex(1 0 0);
+
     padding: 0 1rem;
-    flex-basis: 40%;
+
     @include media-breakpoint-down(md) {
-      flex-basis: auto;
+      flex: auto;
+    }
+  }
+
+  .about__bottom {
+    @include flexbox();
+    @include flex-flow(row wrap);
+
+    padding: 0.5rem;
+
+    img {
+      @include flex(50% 0 0);
+
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
+    }
+
+    @include media-breakpoint-down(md) {
+      display: block;
     }
   }
 }

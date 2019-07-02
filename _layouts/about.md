@@ -19,9 +19,11 @@ full_width: true
           {%- for paragraph in _section.paragraphs -%}
             <p>{{ paragraph }}</p>
           {%- endfor -%}
-          {%- for _bottomImage in _section.bottomImages -%}
-            <img src="{{ _bottomImage.url }}" />
-          {%- endfor -%}
+          <div class="about__bottom">
+            {%- for _bottomImage in _section.bottomImages -%}
+              <img src="{{ _bottomImage.url }}" />
+            {%- endfor -%}
+          </div>
         </div>
       </section>
   {%- endfor -%}
