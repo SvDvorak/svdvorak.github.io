@@ -7,54 +7,51 @@ data:
   sections:
     - title: Andreas Wilcox
       paragraphs:
-        - "Enthusiastic programmer dude who loves game deving it up at all times of the day. And that probably includes a whole bunch of 3D modelling. Though he’s not that good at 2D graphics he’s willing to learn and one day he can be proud of his 2D graphics too!"
-        - "And here is another paragraph about him. Isn’t he super dreamy right. For some reason I can’t make a question mark here. That’s weird."
-
+        - "Hello! I'm an enthusiastic tech nerd who loves coding, game development, 3D modelling and 3D printing. I love anything creative and I have too many ideas and projects than is feasible to finish."
+        - "I'm also the founder of Anwilc, a company dedicated to consulting and project development in the previously mentioned categories. It's essentially the business extension of myself."
+        - "Below is a summary of the different things that occupy my time. Occasionally I write blog posts about whatever I'm doing or what I've created."
       sideImages:
-        - url: /images/about/me.jpg
+        - url: /images/about/me.png
+
     - title: Programming
       paragraphs:
-        - "Here’s a bunch of BS on why I’m the worlds greatest programmer though I’m pretty sure I’m not really that. But I can atleast say that I know a bunch of technologies like
-        <ul>
-            <li>C#</li>
-            <li>Visual Studio</li>
-            <li>Typescript and Javascript</li>
-            <li>Docker</li>
-        </ul>"
-        - "See how important I now seem with all these magical skills. But I don’t really like how it looks with these logos on the side. They might be a bit too big but as you read this it might have already been changed to look super amazingly good."
-        - "I’ve worked for a bunch of large companies which should show how skilled and versatile I am. But it might just look like me boasting so who knows. Companies like
-        <ul>
-            <li>CAB Group</li>
-            <li>Atlas Copco</li>
-            <li>Emberlink</li>
-        </ul>"
-        - "Oh, I totally forgot that I do a bunch of my own projects! Like the logos on the right, my Bandcamp search tool and a Leitner Calendar. Should probably talk more about those."
+        - "Coding has been my creative outlet for a long time and I've find that it is such a fun way of creating functionality out of a few lines of text. Either on my own projects and games or on professional software for various different customers."
+        - "I started out with creating desktop applications in C# or C++ but I've pivoted slightly towards web development in recent times which means Typescript, Node, Angular or Vue combined with hosting using Nginx and Docker."
+        - "As a consultant I've previously worked with companies such as Epiroc, CAB Group, Emberlink and Mjukvarufabriken where I've worked on both desktop and web applications. I've also worked on number of my own applications where the ones I'm most proud of are Camp Explorer and Leitner Calendar."
+        - "<h4><a href='https://github.com/SvDvorak/CampExplorer'>Camp Explorer</a></h4>"
+        - "A search tool I created after finding it difficult to filter music on Bandcamp by combinations of different genres. It was built using Javascript and Angular for the frontend with Docker, Node and Elasticsearch for the backend."
+        - "<h4><a href='https://github.com/SvDvorak/LeitnerCalendar'>Leitner Calendar</a></h4>"
+        - "A simple page just for keeping track of which Leitner cards to review each day, made using Vue.js hosted using Nginx and Docker."
       sideImages:
-        - url: /images/about/camp_explorer.png
-        - url: /images/about/leitner_calendar.png
+        - url: /images/about/camp_explorer_crop.png
+        - url: /images/about/leitner_calendar_crop.png
+
     - title: Game development
       paragraphs:
-      - "And now we come to the game dev part where I talk a bunch about the different game projects I’ve worked on. Hopefully they’ll be animated MP4’s but we’ll see what I can do. Pretty much everything is a game jam though since I haven’t actually completed fuck all."
-      - "So I’ll talk about on how I’m obviously still a good coder but I also know how to use fancy programs such as Unity, Blender, Photoshop and uhm... not much else really when it comes to games. I mean obviously Visual Studio. But not Unreal Engine, fuck that shit. I’ve been burned several times trying it out and I don’t like it. No matter how fancy stuff looks immediately with their default shaders."
-      - "Check out what games I’ve made at itch.io (ADD ITCH)"
+      - "Playing and creating games in some form or another has always been a passion of mine. From making levels in Duke Nukem 3D to making small odd games in Unity, I just love creating interactivity and testing out new ideas."
+      - "I make them part time when I'm not doing my main job of coding and over the years I've built up a small library of games. All of them are free to play since I haven't finished anything to a level that I would actually ask money for it."
+      - "In general I prefer working in 3D using Unity and Blender with Photoshop for textures but I've grown to like FNA and previously I've worked with Adventure Game Studio & Craft Studio."
+      - "Check out the different games I’ve made at <a href='https://itch.io/profile/svdvorak'>itch.io</a>."
       sideImages:
-        - url: /images/about/city_generation_stroll.png
-        - url: /images/about/screenshot_1.png
-        - url: /images/about/Debouncer.png
-        - url: /images/about/AlidaOfArx_Screenshot.jpg
+        - url: /images/about/city_generation_stroll_crop.png
+        - url: /images/about/screenshot_1_crop.png
       bottomImages:
-        - url: /images/about/AMazeBoss_clouds.png
-        - url: /images/about/low_res_look_shader.png
+        - url: /images/about/AMazeBoss_clouds_crop.png
+        - url: /images/about/low_res_look_shader_crop.png
+        - url: /images/about/Debouncer_crop.png
+        - url: /images/about/AlidaOfArx_Screenshot_crop.jpg
     - title: 3D printing
       paragraphs:
-      - "Since early 2018 I’ve delved deep into the world of 3D printing, owning my own Original Prusa i3 MK3 printer (ADD PICTURE OF PRINTER STACK)"
-      - "I’ve been printing other peoples models but also tweaked existing designs and also created a few of my own designs. As I already know how to do 3D modelling from my game development experience it was a very small step over. And in late 2018 I did a smaller prototype print for a company in Örebro."
+      - "Since early 2018 I’ve delved deep into the world of 3D printing, owning my own Original Prusa i3 MK3 printer."
+      - "At the start I mostly printed other peoples models but I've started making a few of my own designs. Finding things I can improve in my surrounding with a simple model and print is incredibly satisfying."
+      - "Already knowing 3D modelling from game development helped alot and I've started getting into Constructive Solid Geometry. And in late 2018 I did a smaller prototype print run for Suzuki Wire in Örebro."
       - "I’m open for helping companies both design and print prototypes or limited run items. I can both be part of the design process or just take a modell and print it in whatever material the customers want."
-      - "To see several of my own designs and different items I’ve printed check out my Thingiverse page (ADD LINK TO THINGIVERSE-PAGE)."
+      - "To see several of my own designs and different items I’ve printed check out my <a href='https://www.thingiverse.com/SvDvorak'>Thingiverse page</a>."
       sideImages:
-        - url: /images/about/IMG_20181223_001625.jpg
-        - url: /images/about/IMG_20181011_125823.jpg
+        - url: /images/about/printer_stack_crop.jpg
+        - url: /images/about/IMG_20181223_001625_crop.jpg
+        - url: /images/about/IMG_20181011_125823_crop.jpg
       bottomImages:
-        - url: /images/about/IMG_20181001_145619.jpg
-        - url: /images/about/IMG_20190410_100429.jpg
+        - url: /images/about/IMG_20181001_145619_crop.jpg
+        - url: /images/about/IMG_20190410_100429_crop.jpg
 ---
