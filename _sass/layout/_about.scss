@@ -105,11 +105,15 @@
 
     padding: 0.5rem;
 
-    img {
+    a {
       @include flex(50% 0 0);
 
       padding-left: 0.5rem;
       padding-right: 0.5rem;
+    }
+
+    img {
+      @include flex(1);
     }
 
     @include media-breakpoint-down(md) {

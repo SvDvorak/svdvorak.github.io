@@ -11,7 +11,7 @@ data:
         - "I'm also the founder of Anwilc, a company dedicated to consulting and project development in the previously mentioned categories. It's essentially the business extension of myself."
         - "Below is a summary of the different things that occupy my time. Occasionally I write blog posts about whatever I'm doing or what I've created."
       sideImages:
-        - url: /images/about/me.png
+        - image: /images/about/me.png
 
     - title: Programming
       paragraphs:
@@ -23,8 +23,10 @@ data:
         - "<h4><a href='https://github.com/SvDvorak/LeitnerCalendar'>Leitner Calendar</a></h4>"
         - "A simple page just for keeping track of which Leitner cards to review each day, made using Vue.js hosted using Nginx and Docker."
       sideImages:
-        - url: /images/about/camp_explorer_crop.png
-        - url: /images/about/leitner_calendar_crop.png
+        - image: /images/about/camp_explorer_crop.png
+          link: https://github.com/SvDvorak/CampExplorer
+        - image: /images/about/leitner_calendar_crop.png
+          link: https://github.com/SvDvorak/LeitnerCalendar
 
     - title: Game development
       paragraphs:
@@ -33,13 +35,14 @@ data:
       - "In general I prefer working in 3D using Unity and Blender with Photoshop for textures but I've grown to like FNA and previously I've worked with Adventure Game Studio & Craft Studio."
       - "Check out the different games I’ve made at <a href='https://itch.io/profile/svdvorak'>itch.io</a>."
       sideImages:
-        - url: /images/about/city_generation_stroll_crop.png
-        - url: /images/about/screenshot_1_crop.png
+        - image: /images/about/city_generation_stroll_crop.png
+        - image: /images/about/screenshot_1_crop.png
       bottomImages:
-        - url: /images/about/AMazeBoss_clouds_crop.png
-        - url: /images/about/low_res_look_shader_crop.png
-        - url: /images/about/Debouncer_crop.png
-        - url: /images/about/AlidaOfArx_Screenshot_crop.jpg
+        - image: /images/about/AMazeBoss_clouds_crop.png
+        - image: /images/about/low_res_look_shader_crop.png
+        - image: /images/about/Debouncer_crop.png
+        - image: /images/about/AlidaOfArx_Screenshot_crop.jpg
+
     - title: 3D printing
       paragraphs:
       - "Since early 2018 I’ve delved deep into the world of 3D printing, owning my own Original Prusa i3 MK3 printer."
@@ -48,10 +51,14 @@ data:
       - "I’m open for helping companies both design and print prototypes or limited run items. I can both be part of the design process or just take a modell and print it in whatever material the customers want."
       - "To see several of my own designs and different items I’ve printed check out my <a href='https://www.thingiverse.com/SvDvorak'>Thingiverse page</a>."
       sideImages:
-        - url: /images/about/printer_stack_crop.jpg
-        - url: /images/about/IMG_20181223_001625_crop.jpg
-        - url: /images/about/IMG_20181011_125823_crop.jpg
+        - image: /images/about/printer_stack_crop.jpg
+        - image: /images/about/IMG_20181223_001625_crop.jpg
+          link: https://www.thingiverse.com/thing:3556738
+        - image: /images/about/IMG_20181011_125823_crop.jpg
+          link: https://www.thingiverse.com/thing:3241614
       bottomImages:
-        - url: /images/about/IMG_20181001_145619_crop.jpg
-        - url: /images/about/IMG_20190410_100429_crop.jpg
+        - image: /images/about/IMG_20181001_145619_crop.jpg
+          link: https://www.thingiverse.com/thing:3556137
+        - image: /images/about/IMG_20190410_100429_crop.jpg
+          link: https://www.thingiverse.com/thing:3553834
 ---
