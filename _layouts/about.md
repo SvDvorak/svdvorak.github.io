@@ -11,7 +11,7 @@ full_width: true
         <h1 class="about__title_top">{{ _section.title }}</h1>
         <div class="about__side">
         {%- for _sideImage in _section.sideImages -%}
-          <a href="{{ _sideImage.link }}"><img src="{{ _sideImage.image }}" /></a>
+          {%- include image-link.html link=_sideImage.link image=_sideImage.image -%}
         {%- endfor -%}
         </div>
         <div class="about__main">
@@ -21,7 +21,7 @@ full_width: true
           {%- endfor -%}
           <div class="about__bottom">
             {%- for _bottomImage in _section.bottomImages -%}
-              <a href="{{ _bottomImage.link }}"><img src="{{ _bottomImage.image }}" /></a>
+              {%- include image-link.html link=_bottomImage.link image=_bottomImage.image -%}
             {%- endfor -%}
           </div>
         </div>

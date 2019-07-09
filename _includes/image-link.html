@@ -1,0 +1,6 @@
+
+{% if include.link != blank %}
+    <a class="image_container" href="{{ include.link }}"><img src="{{ include.image }}" /></a>
+{% else %}
+    <div class="image_container"><img src="{{ include.image }}" /></div>
+{% endif %}

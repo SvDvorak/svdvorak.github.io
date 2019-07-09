@@ -18,15 +18,15 @@ data:
         - "Coding has been my creative outlet for a long time and I've find that it is such a fun way of creating functionality out of a few lines of text. Either on my own projects and games or on professional software for various different customers."
         - "I started out with creating desktop applications in C# or C++ but I've pivoted slightly towards web development in recent times which means Typescript, Node, Angular or Vue combined with hosting using Nginx and Docker."
         - "As a consultant I've previously worked with companies such as Epiroc, CAB Group, Emberlink and Mjukvarufabriken where I've worked on both desktop and web applications. I've also worked on number of my own applications where the ones I'm most proud of are Camp Explorer and Leitner Calendar."
-        - "<h4><a href='https://github.com/SvDvorak/CampExplorer'>Camp Explorer</a></h4>"
+        - "<h4><a href='http://campexplorer.io'>Camp Explorer</a></h4>"
         - "A search tool I created after finding it difficult to filter music on Bandcamp by combinations of different genres. It was built using Javascript and Angular for the frontend with Docker, Node and Elasticsearch for the backend."
-        - "<h4><a href='https://github.com/SvDvorak/LeitnerCalendar'>Leitner Calendar</a></h4>"
+        - "<h4><a href='http://leitnercalendar.anwilc.com/'>Leitner Calendar</a></h4>"
         - "A simple page just for keeping track of which Leitner cards to review each day, made using Vue.js hosted using Nginx and Docker."
       sideImages:
         - image: /images/about/camp_explorer_crop.png
-          link: https://github.com/SvDvorak/CampExplorer
+          link: http://campexplorer.io
         - image: /images/about/leitner_calendar_crop.png
-          link: https://github.com/SvDvorak/LeitnerCalendar
+          link: http://leitnercalendar.anwilc.com/
 
     - title: Game development
       paragraphs:
