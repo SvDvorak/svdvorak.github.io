@@ -35,7 +35,8 @@ data:
       - "In general I prefer working in 3D using Unity and Blender with Photoshop for textures but I've grown to like FNA and previously I've worked with Adventure Game Studio & Craft Studio."
       - "Check out the different games I’ve made at <a href='https://itch.io/profile/svdvorak'>itch.io</a>."
       sideImages:
-        - image: /images/about/city_generation_stroll_crop.png
+        - video: /images/about/DesertMiner_video_square.mp4
+          link: https://reddit.com
         - image: /images/about/screenshot_1_crop.png
       bottomImages:
         - image: /images/about/AMazeBoss_clouds_crop.png
