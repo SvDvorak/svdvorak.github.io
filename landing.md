@@ -37,7 +37,8 @@ data:
       sideImages:
         - video: /images/about/DesertMiner_video_square.mp4
           link: https://reddit.com
-        - image: /images/about/screenshot_1_crop.png
+        - video: /images/about/DesertMiner_II_square.mp4
+          link: https://youtube.com
       bottomImages:
         - image: /images/about/AMazeBoss_clouds_crop.png
         - image: /images/about/low_res_look_shader_crop.png
