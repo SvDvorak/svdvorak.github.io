@@ -1,6 +1,5 @@
 ---
 layout: archive
-titles:
-  en: All Posts
+title: All Posts
 show_title: false
 ---

@@ -1,5 +1,6 @@
 ---
 title: Finding and riding the road
+description: Things to think about when you're planning your route as well as what to keep an eye out for while riding
 cover: /images/longboard/riding_3.jpg
 tags:
 - Longboard

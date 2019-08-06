@@ -1,5 +1,6 @@
 ---
 title: And all the other gear
+description: Continuation on all the other gear I bring on my long distance trips
 cover: /images/longboard/camping_2.jpg
 tags:
 - Longboard

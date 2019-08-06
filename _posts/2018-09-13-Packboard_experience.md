@@ -1,5 +1,6 @@
 ---
 title: Packboard experience
+description: Short writeup on the experience on having my whole pack on a separate hitched board
 cover: /images/longboard/board.jpg
 tags:
 - Longboard

@@ -1,5 +1,6 @@
 ---
 title: Board-talk
+description: Indepth talk on the board I use for travelling long distance
 cover: /images/longboard/pack_and_board.jpg
 tags:
 - Longboard

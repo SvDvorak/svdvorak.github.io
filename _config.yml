@@ -17,9 +17,9 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : https://www.anwilc.com # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Anwilc
-name    : Anwilc Blog
+name    : Anwilc
 description: > # this means to ignore newlines until "Language & timezone"
-  Anwilc, the root of all things Andreas Wilcox
+  Home of Anwilc and its owner Andreas Wilcox
 
 
 ## => Language and Timezone
@@ -34,7 +34,7 @@ author:
   type      : organization
   name      : Anwilc
   url       : http://www.anwilc.com
-  avatar    : # path or url of avatar image (square)
+  avatar    : /assets/social-link.svg # path or url of avatar image (square)
   bio       : Anwilc is the company run by Andreas Wilcox who does a bit of everything; coding, 3D printing, game development
   email     : wilcox.andreas@gmail.com # TODO: GET A PROPER EMAIL ON THE DOMAIN
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name

@@ -1,5 +1,6 @@
 ---
 title: Going the longboard distance
+description: Introduction to long distance longboarding
 cover: /images/longboard/board.jpg
 tags:
 - Longboard
