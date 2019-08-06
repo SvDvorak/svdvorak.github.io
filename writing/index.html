@@ -16,5 +16,14 @@ articles:
     {%- include paginator.html -%}
   </div>
 
-  <a class="button button--primary button--pill archive_button" href="/archive">Archive</a>
+  <ul class="menu">
+    <li>
+      <a class="button button--circle button--primary" itemprop="sameAs" href="/feed.xml" target="_blank">
+        <div class="icon">{%- include svg/feed.svg -%}</div>
+      </a>
+    </li>
+    <li>
+      <a class="button button--primary button--pill" href="/archive">Archive</a>
+    </li>
+  </div>
 </div>
