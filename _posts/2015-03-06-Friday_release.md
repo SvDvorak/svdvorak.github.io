@@ -1,6 +1,11 @@
 ---
-layout: post
 title: Friday release
+cover: /images/TheLittlePowerPlant_r1.png
+tags:
+- TLPP
+- Game dev
+- Playable
+aside: false
 ---
 
 [![image](/images/TheLittlePowerPlant_r1.png)](/images/TheLittlePowerPlant_r1.png)

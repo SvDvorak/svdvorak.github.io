@@ -1,6 +1,10 @@
 ---
-layout: post
 title: Now with extra carnage
+tags:
+- TLPP
+- Game dev
+- Playable
+aside: false
 ---
 
 <p class="gfycontainer"><img class="gfyitem" data-id="EdibleLankyBluegill" /></p>

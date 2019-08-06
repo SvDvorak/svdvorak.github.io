@@ -1,6 +1,10 @@
 ---
-layout: post
 title: Making a textured model
+cover: /images/house_model/house_occlusion.png
+tags:
+- Game dev
+- Modelling
+aside: false
 ---
 
 So these last couple of weeks (sorry for no posts) I've been getting into the workflow of making textured 3D models. So far I've used flat-shaded models as seen in The Little Power Plant and MicroTactics which means I've used single colored textures for the models. So of course, the simplest texture you can have is a diffuse one which is just putting a 2D image on a 3D model. So below is the house I've been working on with only a diffuse texture.

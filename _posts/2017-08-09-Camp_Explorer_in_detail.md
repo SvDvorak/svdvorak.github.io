@@ -1,6 +1,10 @@
 ---
-layout: post
 title: Camp Explorer in detail
+tags:
+- Camp Explorer
+- Bandcamp
+- Coding
+aside: false
 ---
 
 

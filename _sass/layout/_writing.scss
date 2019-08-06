@@ -1,0 +1,10 @@
+.writing_navigation {
+    @include flexbox();
+    @include flex-direction(row);
+    @include justify-content(space-between);
+    @include align-items(center);
+    
+    .archive_button {
+        display: inline;
+    }
+}

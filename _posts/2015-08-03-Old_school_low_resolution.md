@@ -1,6 +1,11 @@
 ---
-layout: post
 title: Old school low resolution
+cover: /images/low_res_look_shader.png
+tags:
+- Graphics
+- Coding
+- Game dev
+aside: false
 ---
 
 [![image](/images/low_res_look_shader.png)](/images/low_res_look_shader.png)

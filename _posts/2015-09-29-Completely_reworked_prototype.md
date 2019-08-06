@@ -1,6 +1,11 @@
 ---
-layout: post
 title: Completely reworked prototype
+cover: /images/Node_based_integration_test.png
+tags:
+- MicroTactics
+- Game dev
+- Drawing
+aside: false
 ---
 
 <p class="gfycontainer"><img class="gfyitem" data-id="SpitefulBlaringBustard" /></p>

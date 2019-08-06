@@ -1,6 +1,9 @@
 ---
-layout: post
 title: Bringing back early 3D
+cover: /images/dungeon_of_the_endless.png
+tags:
+- Game dev
+aside: false
 ---
 
 [![image](/images/dungeon_of_the_endless.png)](/images/dungeon_of_the_endless.png)

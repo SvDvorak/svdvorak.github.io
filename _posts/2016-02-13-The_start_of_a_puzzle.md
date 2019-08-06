@@ -1,6 +1,11 @@
 ---
-layout: post
 title: The start of a puzzle
+cover: /images/AMazeBoss_release_1.png
+tags:
+- A Maze Boss
+- Game dev
+- Playable
+aside: false
 ---
 
 Working alone does take its toll, it can be somewhat demotivating to chug away at the project without much discussion or interaction with other people. So at the end of the last year I was given the opportunity to take in an intern for 10 weeks. More specifically Oskar Engholm, who's studying technical illustrator (teknikillustratör) in Arvika. It felt like a good change and two people (almost) always get more stuff done than one. Oskar would be with me for 10 weeks which felt like a good amount of time to do a prototype since I didn't want to throw him into MicroTactics and not have something finished after his time was over.

@@ -1,8 +1,12 @@
 ---
-layout: post
 title: Practice modelling
+cover: /images/npc_41_model_wip_1.png
+tags:
+- Modelling
+aside: false
 ---
 
+{% include /3d-view.html %}
 <div class='modelviewer' model='/models/npc_41.obj' texture='/models/npc_41.png' onclick="LoadModelViewer(this)">
 	<div>
 		<img alt="image" src="/images/npc_41_model_wip_1.png" />

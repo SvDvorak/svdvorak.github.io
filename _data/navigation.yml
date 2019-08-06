@@ -1,0 +1,9 @@
+header:
+  - title: About
+    url: /
+
+  - title: Writing
+    url: /writing/index.html
+
+  - title: CV
+    url: /cv.html

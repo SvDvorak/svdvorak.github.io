@@ -1,6 +1,11 @@
 ---
-layout: post
 title: Editor-ial
+cover: /images/AMazeBoss_release_2_editor.png
+tags:
+- A Maze Boss
+- Game dev
+- Playable
+aside: false
 ---
 
 [![image](/images/AMazeBoss_release_2_editor.png)](/images/AMazeBoss_release_2_editor.png)

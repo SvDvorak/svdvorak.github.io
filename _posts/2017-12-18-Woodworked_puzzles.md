@@ -1,6 +1,11 @@
 ---
-layout: post
 title: Woodworked puzzles
+cover: /images/cube_puzzle_1.png
+tags:
+- Woodworking
+- DIY
+- Puzzle
+aside: false
 ---
 
 Giving away something you've made yourself is always an extra joy. As I mentioned in the last post I created a few gifts by hand last christmas, one was the spice rack written in the [previous post](/2017/12/12/Woodworked_spices.html) and the two others were two puzzle cubes I made for my dad.

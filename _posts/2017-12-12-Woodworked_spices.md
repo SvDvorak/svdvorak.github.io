@@ -1,6 +1,10 @@
 ---
-layout: post
 title: Woodworked spices
+cover: /images/spice_rack_front.png
+tags:
+- Woodworking
+- DIY
+aside: false
 ---
 
 Figuring out what to get someone for a gift is always hard. And even when you do know what to get it might be hard to find one that you think they'll like. I'm having that issue with a few gifts this year which made me think of last year when I went a different route.

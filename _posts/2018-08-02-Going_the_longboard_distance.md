@@ -1,11 +1,16 @@
 ---
-layout: post
 title: Going the longboard distance
+cover: /images/longboard/board.jpg
+tags:
+- Longboard
+aside: false
 ---
 
 [![noBorderImage](/images/longboard/board.jpg)](/images/longboard/board.jpg)
 
 When I meet new people my interest in longboarding can easily pop up and like some kind of low budget door salesman I love extolling its virtues. One of the aspects, which I get most questions about, is my love for riding long distance where you do full day or multi-day trips.
+
+<!--more-->
 
 And now that I've done it for a bunch of years and gathered some experience I figured I'd write a four part series on what I've learned, so that you too can start out on your own!
 

@@ -1,0 +1,10 @@
+
+{% if include.link != blank %}
+    <a class="image_container" href="{{ include.link }}">
+        {%- include video-or-image.html image=include.image video=include.video -%}
+    </a>
+{% else %}
+    <div class="image_container">
+        {%- include video-or-image.html image=include.image video=include.video -%}
+    </div>
+{% endif %}

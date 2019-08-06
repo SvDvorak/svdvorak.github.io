@@ -1,6 +1,9 @@
 ---
-layout: post
 title: Board-talk
+cover: /images/longboard/pack_and_board.jpg
+tags:
+- Longboard
+aside: false
 ---
 
 [![noBorderImage](/images/longboard/pack_and_board.jpg)](/images/longboard/pack_and_board.jpg)

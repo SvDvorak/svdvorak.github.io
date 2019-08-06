@@ -1,0 +1,123 @@
+.abouts {
+  max-width: map-get($layout, content-max-width);
+  margin-right: auto;
+  margin-left: auto;
+
+  $marginSidesLarge: map-get($spacers, 5);
+  $marginSidesSmall: map-get($spacers, 3);
+  & > .about {
+    margin-top: map-get($spacers, 5);
+    margin-bottom: 0;
+    margin-left: $marginSidesLarge;
+    margin-right: $marginSidesLarge;
+    @include media-breakpoint-down(lg) {
+      margin-top: map-get($spacers, 3);
+      margin-left: $marginSidesSmall;
+      margin-right: $marginSidesSmall;
+    }
+  }
+  & > .about:not(:first-child) {
+    margin-top: map-get($spacers, 5) * 3;
+    @include media-breakpoint-down(md) {
+      margin-top: map-get($spacers, 4) * 3;
+    }
+  }
+}
+
+.about {
+  @include flexbox();
+  @include flex-flow(row wrap);
+
+  &:nth-child(even) {
+    @include flex-flow(row-reverse wrap);
+  }
+
+  @include media-breakpoint-down(md) {
+    @include flex-flow(column);
+  }
+
+  img, video {
+    display: block;
+    width: 100%;
+    padding: 1rem 0;
+  }
+
+  p,
+  h1 {
+    text-align: left;
+    font-weight: 400;
+  }
+
+  h1 {
+    font-size: map-get($base, font-size-xl) * 2;
+  }
+
+  & > * {
+    flex: 1 100%;
+  }
+
+  .about__title_top {
+    display: none;
+    padding: 0 1rem;
+
+    @include media-breakpoint-down(md) {
+      display: flex;
+    }
+  }
+
+  .about__title_text {
+    display: flex;
+
+    @include media-breakpoint-down(md) {
+      display: none;
+    }
+  }
+
+  .about__main {
+    @include flex(2 0 0);
+
+    & > * {
+      padding: 0 1rem;
+    }
+
+    @include media-breakpoint-down(md) {
+      flex: auto;
+    }
+
+    ul {
+      margin-left: 2rem;
+    }
+  }
+
+  .about__side {
+    @include flex(1 0 0);
+
+    padding: 0 1rem;
+
+    @include media-breakpoint-down(md) {
+      flex: auto;
+    }
+  }
+
+  .about__bottom {
+    @include flexbox();
+    @include flex-flow(row wrap);
+
+    padding: 0.5rem;
+
+    .image_container {
+      @include flex(50% 0 0);
+
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
+    }
+
+    img, video {
+      @include flex(1);
+    }
+
+    @include media-breakpoint-down(md) {
+      display: block;
+    }
+  }
+}

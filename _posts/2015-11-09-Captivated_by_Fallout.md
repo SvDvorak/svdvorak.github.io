@@ -1,6 +1,10 @@
 ---
-layout: post
 title: Captivated by Fallout
+tags:
+- Game jam
+- Game dev
+- Playable
+aside: false
 ---
 
 <p class="gfycontainer"><img class="gfyitem" data-id="SnivelingSoulfulDuckling" /></p>

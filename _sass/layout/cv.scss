@@ -1,0 +1,63 @@
+.contacts_text {
+  display: none;
+}
+
+.split {
+  @include flexbox();
+  @include flex-flow(row wrap);
+
+  .skills {
+    @include flex(1 0 0);
+  }
+  .intro_text {
+    @include flex(4 0 0);
+  }
+
+  @include media-breakpoint-down(md) {
+    @include flex-flow(column);
+  }
+}
+
+.skills {
+  @include flexbox();
+  @include flex-flow(column);
+  @include flex(1 0 0);
+
+  padding-left: 3rem;
+
+  ul {
+    margin-left: 2rem;
+    list-style: square;
+  }
+  
+  div {
+    margin: 0 3rem 0 0;
+  }
+
+  @include media-breakpoint-down(md) {
+    @include flex-flow(column);
+    padding-top: 2rem;
+    padding-left: 0;
+
+    div {
+      margin: 0rem;
+    }
+  }
+}
+
+
+// Firefox and Edge printing sucks and can't handle flexbox it seems.
+// So have to remove flexbox from everything when printing
+@media print {
+  div {
+    display: block !important;
+  }
+
+  a {
+    display: none;
+  }
+
+  .skills {
+    padding: 0;
+  }
+}

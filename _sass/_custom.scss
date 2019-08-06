@@ -1,0 +1,34 @@
+@import
+    "layout/about",
+    "layout/cv",
+    "layout/writing"
+;
+
+
+// Remove border between posts
+.items--divided .item {
+    border: 0 !important;
+    padding-bottom: map-get($spacers, 3) * 2 !important;
+}
+
+// Larger image for post cover
+.item__image .image--lg {
+    width: map-get($image, width-xl);
+}
+
+// Change post excerpt text from small to normal
+.item__description {
+  &, .article__content {
+    font-size: map-get($base, font-size);
+  }
+}
+
+.footer {
+  background: $background-color;
+}
+
+.mp4_video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

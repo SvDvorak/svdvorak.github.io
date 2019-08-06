@@ -1,0 +1,8 @@
+
+{% if include.image != blank %}
+    <img src="{{ include.image }}" />
+{% endif %}
+
+{% if include.video != blank %}
+    {%- include mp4-video.html src=include.video -%}
+{% endif %}

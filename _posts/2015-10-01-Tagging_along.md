@@ -1,6 +1,11 @@
 ---
-layout: post
 title: Tagging along
+cover: /images/bandcamp_tag_search_large_icon.png
+tags:
+- Camp Explorer
+- Bandcamp
+- Coding
+aside: false
 ---
 
 [![originalSizeImage](/images/bandcamp_tag_search_large_icon.png)](/images/bandcamp_tag_search_large_icon.png)

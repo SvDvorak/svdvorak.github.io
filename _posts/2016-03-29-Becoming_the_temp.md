@@ -1,6 +1,8 @@
 ---
-layout: post
 title: Becoming the temp
+tags:
+- Teaching
+aside: false
 ---
 
 Last you heard from me I put out a release for the 10 week prototype. A pretty big thing has happened since; I've become a substitute teacher! I got contacted a bit unexpectedly from Tobias Solem, a teacher at IT-Gymnasiet (equivalent to upper secondary school in the US), who'd become ill and needed some one to take over two classes a week for a while. And since it's only a few hours a week I can continue with my game development at the same time.
