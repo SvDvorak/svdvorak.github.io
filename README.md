@@ -1,6 +1,6 @@
-Andreas Wilcox personal page
+Anwilc page
 ============================
 
-This is the [Jekyll](http://github.com/mojombo/jekyll) source for my personal site where I have my blog and links to my projects. I took a lot of inspiration and code from [Tom Preston-Werner](https://github.com/mojombo/mojombo.github.io) and [Scott Chacon](https://github.com/schacon/schacon.github.com) to create the site.
+This is the [Jekyll](http://github.com/mojombo/jekyll) source for Anwilc's (my company) site where I host information about the company, links to my projects, my blog and my CV. Based on a heavily modified [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme).
 
-Feel free to re-use any part of the structure, design, and layout of this site; it is all licensed under the MIT License. However the content of the site, anything in _posts or images, is Copyright Andreas Wilcox.
+Feel free to re-use any part of the structure, design, and layout of this site; it is all licensed under the MIT License. However the content of the site, anything in _posts, images, landing.md and CV.md, is Copyright Anwilc and Andreas Wilcox.
