@@ -1,0 +1,88 @@
+--- Tips & tricks
+Cover image:
+    article_header:
+    type: cover
+    image:
+        src: /images/longboard/board.jpg
+    
+Modify date:
+    modify_date: 2017-09-09
+
+Read more separator:
+    <!--more-->
+
+Extensions (including youtube & CodePen):
+    <div>{%- include extensions/youtube.html id='wbY97-hdD5c' -%}</div>
+    <div>{%- include extensions/codepen.html user='kitian616' hash='aQmWZG' default_tab='html,result' -%}</div>
+    
+    https://tianqi.name/jekyll-TeXt-theme/post/2017/08/02/extensions.html
+
+Playing MP4:
+    {%- include mp4-video.html src="/images/mp4_test.mp4" width="40rem" -%}
+
+
+--- Markdown
+
+Image:
+    ![AltText, not required though](path-to-image)
+Image with title:
+    ![AltText](path-to-image "Image")
+Image with specific size:
+    ![Image](path-to-image){:width="128px" height="128px"}
+Image presets:
+    ![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "TEXT"){:.circle.rounded.shadow}
+        Possible options: Border, Shadow, Rounded or Circle, can combine
+
+Link:
+    [TeXt](https://github.com/kitian616/jekyll-TeXt-theme/)
+Link with title:
+    [TeXt](https://github.com/kitian616/jekyll-TeXt-theme/ "TeXt")
+Reference link (looks much better, start using!)
+    [TeXt][TeXt] is a super customizable Jekyll theme.
+    [TeXt]: https://github.com/kitian616/jekyll-TeXt-theme/ "TeXt"
+
+Headers:
+    # H1
+    ## H2
+    ### H3
+    #### H4
+    ##### H5
+    ###### H6
+
+Emphasis:
+    *Italic* OR _Italic_
+    **Bold** OR __Bold__
+    ***Bold & italic*** OR ___Bold & italic___
+
+Code block:
+    ```
+    Use backticks like the ones above and below to signify a code block // THIS WONT COMPILE
+    ```
+Language code blocks:
+    {% highlight javascript %}
+    A bunch of crappy javascript here, will show with syntax highlighting
+    {% endhighlight %}
+
+    OR LIKE THIS APPARENTLY
+
+    ~~~
+    def what?
+        42
+    end
+    ~~~
+    {: .language-ruby}
+
+Blockquotes:
+    > This text is now quoted
+    >
+    > This too
+
+Lists:
+    * Item 1
+    * Item 2
+
+    There are ordered lists (1. Text   2. Text) and task lists available
+
+Footnotes:
+    Here is a [^1] footnote reference
+    [^1]: And the actual footnote text
