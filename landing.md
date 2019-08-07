@@ -36,14 +36,15 @@ data:
       - "In general I prefer working in 3D using Unity and Blender with Photoshop for textures but I've grown to like FNA and previously I've worked with Adventure Game Studio & Craft Studio."
       - "Check out the different games I’ve made at <a href='https://anwilc.itch.io/'>itch.io</a>."
       sideImages:
-        - video: /images/about/PuzzleKids_square.mp4
-        - video: /images/about/INREDA_square.mp4
-        - video: /images/about/DavesTheory_square.mp4
+        - video: /images/about/PuzzleKids_square
+        - video: /images/about/INREDA_square
+        - video: /images/about/DavesTheory_square
+          link: https://anwilc.itch.io/daves-theory-of-gravity
       bottomImages:
-        - video: /images/about/AlidaOfArx_square.mp4
-        - video: /images/about/BrainDrain_square.mp4
-        - video: /images/about/Disrubed_square.mp4
-        - video: /images/about/DesertMiner_II_square.mp4
+        - video: /images/about/AlidaOfArx_square
+        - video: /images/about/BrainDrain_square
+        - video: /images/about/Disrubed_square
+        - video: /images/about/DesertMiner_II_square
           link: https://anwilc.itch.io/desert-miner-ii
 
     - title: 3D printing

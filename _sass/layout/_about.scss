@@ -39,7 +39,8 @@
   img, video {
     display: block;
     width: 100%;
-    padding: 1rem 0;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
   }
 
   p,
@@ -54,11 +55,11 @@
 
   & > * {
     flex: 1 100%;
+    padding: 0 1rem;
   }
 
   .about__title_top {
     display: none;
-    padding: 0 1rem;
 
     @include media-breakpoint-down(md) {
       display: flex;
@@ -76,10 +77,6 @@
   .about__main {
     @include flex(2 0 0);
 
-    & > * {
-      padding: 0 1rem;
-    }
-
     @include media-breakpoint-down(md) {
       flex: auto;
     }
@@ -92,8 +89,6 @@
   .about__side {
     @include flex(1 0 0);
 
-    padding: 0 1rem;
-
     @include media-breakpoint-down(md) {
       flex: auto;
     }
@@ -103,12 +98,20 @@
     @include flexbox();
     @include flex-flow(row wrap);
 
-    padding: 0.5rem;
-
     .image_container {
       @include flex(50% 0 0);
 
+      @include media-breakpoint-down(md) {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+    }
+
+    .image_container:nth-child(even) {
       padding-left: 0.5rem;
+    }
+
+    .image_container:nth-child(odd) {
       padding-right: 0.5rem;
     }
 
