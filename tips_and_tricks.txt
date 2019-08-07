@@ -1,3 +1,11 @@
+
+Nice looking homepages:
+https://conorpp.com/
+http://www.conormccann.net/
+
+Useful Jekyll stuff
+https://jekyllcodex.org/without-plugins/
+
 --- Tips & tricks
 Cover image:
     article_header:
