@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV
+show_title: false
 description: Andreas Wilcox CV
 ---
 {%- assign _author = site.author -%}
