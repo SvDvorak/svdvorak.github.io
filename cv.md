@@ -9,9 +9,9 @@ description: Andreas Wilcox CV
 ## Hi, I'm Andreas Wilcox
 <div class="split">
   <div class="intro_text">
-    <p>I'm a enthusiast of all things tech that loves to do anything creative. I may be mainly focused on programming but I also make games, 3D model, 3D print and create things out of wood; essentially if I get to create something I take on most challenges.</p>
-    <p>I always strive to learn new things by understanding how they work, why they work the way the do, how I can use them and why I should use them. What that means is that I dabble in a lot of different things as you could probably tell by the previous paragraph.</p>
-    <p>Still I am meticulous in whatever I do, I push for quality at all times. Though I know from experience that there is a balance you must find between making something great and getting it out the door.</p>
+    <p>I'm an enthusiast of all things tech and I love to do anything creative. I may be mainly focused on programming but I also make games, 3D models, 3D prints and I create things out of wood; essentially if I get to create something I take on most challenges.</p>
+    <p>I like to learn new things as well, understanding a new tool or a different way of thinking is something I find exciting.</p>
+    <p>And I would say that I am meticulous in whatever I do, I push for quality at all times. Though I know from experience that there is a balance you must find between making something great and getting it out the door.</p>
     <div class="contacts_text">
       <p><b>Mail</b>: {{ _author.email }}</p>
       <p><b>Github</b>: https://github.com/{{ _author.github }}</p>
@@ -70,28 +70,28 @@ description: Andreas Wilcox CV
 <br />
 
 ## Anwilc
-In July 2016 I founded my own company for doing consulting work. These are some of contracts I've had.
+In July 2016 I founded my own company for doing consulting work. These are some of the contracts I've had.
+<br />
+<br />
+
+### Emberlink
+December 2017 - June 2019
+
+Developed new features and helped improve their PubQ application, a template restaurant app to enable customers to get their own custom app. My main task was to create a new orderflow for a new customer but within that budget I was also able to redesign the back office UI, improve receipt printing and a whole slew of small fixes. The app is written in Typescript using Ionic with a Firebase backend.
 <br />
 <br />
 
 ### Mjukvarufabriken
 August 2018 - January 2019
 
-Subcontracted and worked with a company that sells custom renderings for new building construction. My job was maintaining their Wordpress website and ordersystem, including writing some custom PHP. They also had several different services on offer that I helped update and also one new one I created in Javascript and Leaflet. 
+Subcontracted and worked with a company that sells custom renderings for new building construction. My job was maintaining their Wordpress website and ordersystem, including writing some custom PHP. They also had several different services on offer that I helped update and also one new one I created in Javascript with Leaflet. 
 <br />
 <br />
 
 ### Suzuki Wire
 November 2018
 
-Suzuki Wire have had issues with some plastic parts becoming worn out quickly in their machines. New ones were expensive so I was contracted to see if I was able to 3D print new ones with either a higher durability or a lower price. In conjuction with Suzuki I figured out what plastic and settings would be optimal and printed a small run of parts.
-<br />
-<br />
-
-### Emberlink
-December 2017 - April 2018
-
-Developed new features and helped improve their PubQ application, a template restaurant app to help customers get their own custom app. My main task was to create a new orderflow for a new customer but within that budget I was also able to redesign the back office UI, improve receipt printing and a whole slew of small fixes. App is written in Ionic using Typescript with a Firebase backend.
+Suzuki Wire has had issues with some plastic parts quickly becoming worn out in their machines. New ones were expensive so I was contracted to see if I was able to 3D print new ones with either a higher durability or a lower price. In conjuction with Suzuki I figured out what plastic and settings would be optimal and printed a small run of parts.
 <br />
 <br />
 
@@ -118,7 +118,7 @@ Substituting for a teacher on sick leave for two design courses for year 1 and y
 ### Sogeti
 June 2011 - December 2014
 
-My first job programming where I did consulting work at Atlas Copco. There I worked on several of their desktop applications designed for planning, evaluation and management of drilling operations both above and below ground. All of them were desktop applications written C# with mostly WPF but with some legacy Winforms as well.
+My first job programming where I did consulting work at Atlas Copco. There I worked on several of their desktop applications designed for planning, evaluation and management of drilling operations both above and below ground. All of them were desktop applications written in C# with mostly WPF but with some legacy Winforms as well.
 
 My time there was the first foray into MVVM, TDD, SOLID practices, agile methodologies and so many more skills that I've continued developing over the years.
 <br />
@@ -132,7 +132,7 @@ My time there was the first foray into MVVM, TDD, SOLID practices, agile methodo
 ### Bachelor of Computer Science - Örebro University
 September 2008 - June 2011
 
-Studied the now defunct program Simulation and Computer Games Technology for three years. The program was based on the Computer Engineering program which meant that in addition to the programming, math and AI from Computer Engineering it added several courses with more AI, game design and interaction design.
+Studied the now defunct program Simulation and Computer Games Technology for three years. The program was based on the Computer Engineering program which meant that in addition to the programming, math and AI from Computer Engineering it also added several courses with more AI, game design and interaction design.
 <br />
 <br />
 
@@ -147,13 +147,13 @@ A few of my own projects that have been especially fun and educational to work o
 ### Camp Explorer
 My solution to the problem of finding new and exciting music on the Bandcamp website. Usually the music I'm in the mood to listen to can be a combination of genres, like instrumental electronic music.
 
-Without a way of searching for several genres I created my own search service which keeps it's own database cache of Bandcamps music and quickly returns back results on whatever searches the user does. It was also a good exercise for me to learn Javascript, Node, Jasmine, Elasticsearch, Docker and Nginx.
+Without a way of searching for several genres I created my own search service which keeps it's own database cache of Bandcamps music and quickly returns back results on whatever genres the user searches for. It was also a good exercise for me to learn Javascript, Node, Jasmine, Elasticsearch, Docker and Nginx.
 
 [Camp Explorer](http://campexplorer.io)
 <br />
 <br />
 
 ### Puzzle Kids
-A game made during an intense game jam over 72 hours with three friends. In the game you and three others must cooperate and put together jigsaw puzzles before the fire goes out in the room. It was one of the most well planned and executed short projects I've done with continous game testing and feedback to make sure no time went to waste. First project I've done with FNA as well.
+A game made during an intense game jam over 72 hours with three friends. In the game you and three others must cooperate and put together jigsaw puzzles before the fire goes out in the room. It was one of the most well planned and well executed short projects I've done with continous game testing and feedback to make sure no time went to waste. First project I've done with FNA as well.
 
 [Puzzle Kids](https://ldjam.com/events/ludum-dare/43/puzzle-kids)
