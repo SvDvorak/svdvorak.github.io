@@ -37,11 +37,13 @@ data:
       - "Check out the different games I’ve made at <a href='https://anwilc.itch.io/'>itch.io</a>."
       sideImages:
         - video: /images/about/PuzzleKids_square
+          link: https://anwilc.itch.io/puzzle-kids
         - video: /images/about/INREDA_square
         - video: /images/about/DavesTheory_square
           link: https://anwilc.itch.io/daves-theory-of-gravity
       bottomImages:
         - video: /images/about/AlidaOfArx_square
+          link: https://anwilc.itch.io/alida-of-arx
         - video: /images/about/BrainDrain_square
         - video: /images/about/Disrubed_square
         - video: /images/about/DesertMiner_II_square
