@@ -10,7 +10,7 @@ description: Andreas Wilcox CV
 <div class="split">
   <div class="intro_text">
     <p>I'm an enthusiast of all things tech and I love to do anything creative. I may be mainly focused on programming but I also make games, 3D models, 3D prints and I create things out of wood; essentially if I get to create something I take on most challenges.</p>
-    <p>I like to learn new things as well, understanding a new tool or a different way of thinking is something I find exciting.</p>
+    <p>I like to learn new things as well, understanding a new tool or a different way of thinking is something I find exciting. That often includes trying out new programming languages, frameworks or tools.</p>
     <p>And I would say that I am meticulous in whatever I do, I push for quality at all times. Though I know from experience that there is a balance you must find between making something great and getting it out the door.</p>
     <div class="contacts_text">
       <p><b>Mail</b>: {{ _author.email }}</p>
@@ -156,4 +156,4 @@ Without a way of searching for several genres I created my own search service wh
 ### Puzzle Kids
 A game made during an intense game jam over 72 hours with three friends. In the game you and three others must cooperate and put together jigsaw puzzles before the fire goes out in the room. It was one of the most well planned and well executed short projects I've done with continous game testing and feedback to make sure no time went to waste. First project I've done with FNA as well.
 
-[Puzzle Kids](https://ldjam.com/events/ludum-dare/43/puzzle-kids)
+[Puzzle Kids](https://anwilc.itch.io/puzzle-kids)
