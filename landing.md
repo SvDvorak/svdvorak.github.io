@@ -39,13 +39,16 @@ data:
         - video: /images/about/PuzzleKids_square
           link: https://anwilc.itch.io/puzzle-kids
         - video: /images/about/INREDA_square
+          link: https://anwilc.itch.io/inreda
         - video: /images/about/DavesTheory_square
           link: https://anwilc.itch.io/daves-theory-of-gravity
       bottomImages:
         - video: /images/about/AlidaOfArx_square
           link: https://anwilc.itch.io/alida-of-arx
         - video: /images/about/BrainDrain_square
+          link: https://anwilc.itch.io/brain-drain
         - video: /images/about/Disrubed_square
+          link: https://anwilc.itch.io/disrubed
         - video: /images/about/DesertMiner_II_square
           link: https://anwilc.itch.io/desert-miner-ii
 
