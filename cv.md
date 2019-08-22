@@ -49,7 +49,7 @@ description: Andreas Wilcox CV
       <h3>Proficient</h3>
       <ul>
           <li>C#</li>
-          <li>Unity3D</li>
+          <li>Unity</li>
           <li>Blender</li>
           <li>ATDD</li>
       </ul>
