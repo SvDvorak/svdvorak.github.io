@@ -54,7 +54,7 @@
   }
 
   & > * {
-    flex: 1 100%;
+    @include flex(1 100%);
     padding: 0 1rem;
   }
 
@@ -62,12 +62,12 @@
     display: none;
 
     @include media-breakpoint-down(md) {
-      display: flex;
+      @include flexbox();
     }
   }
 
   .about__title_text {
-    display: flex;
+    @include flexbox();
 
     @include media-breakpoint-down(md) {
       display: none;
@@ -78,7 +78,7 @@
     @include flex(2 0 0);
 
     @include media-breakpoint-down(md) {
-      flex: auto;
+      @include flex(auto);
     }
 
     ul {
@@ -90,7 +90,7 @@
     @include flex(1 0 0);
 
     @include media-breakpoint-down(md) {
-      flex: auto;
+      @include flex(auto);
     }
   }
 

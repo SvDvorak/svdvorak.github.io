@@ -6,9 +6,6 @@
   @include flexbox();
   @include flex-flow(row wrap);
 
-  .skills {
-    @include flex(1 0 0);
-  }
   .intro_text {
     @include flex(4 0 0);
   }
@@ -22,8 +19,11 @@
   @include flexbox();
   @include flex-flow(column);
   @include flex(1 0 0);
+  @include flex-shrink(0);
 
   padding-left: 3rem;
+  min-width: auto;
+  min-height: auto;
 
   ul {
     margin-left: 2rem;
