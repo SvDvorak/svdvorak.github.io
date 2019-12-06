@@ -14,7 +14,7 @@ tags:
 
 My brother has always been a fan of the first Playstation. We've never had one in our family but we both grew up playing on our friends consoles. And even today both of us still love the low-fi style of the early 3D games released at that time.
 
-For the past year I've had an idea of giving him a Playstation 1 as a birthday gift but I wanted to take it a step further, make it a bit more modern internally; by converting it to a Raspberry Pi computer.
+For the past year I've had an idea of giving him a Playstation 1 as a birthday gift but I wanted to take it a step further, make it a bit more modern internally; by converting it to a Raspberry Pi computer with a Playstation emulator.
 
 *Prepare for a long post with a lot of images!*
 
@@ -312,7 +312,7 @@ It was fun doing a project that required that many different skills, switching b
 
 I've been wondering if I should put up the design files but seeing as pretty much all of them are designed around the specific parts I used I think it might not be too useful.
 
-So thanks for reading and following along! If you have any questions or comments, just contact me using the buttons at the bottom of the page.
+So thanks for reading all the way to the end! If you have any questions or comments, just contact me using the buttons at the bottom of the page.
 
 <br>
 <br>
