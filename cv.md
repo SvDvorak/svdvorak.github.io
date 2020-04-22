@@ -74,8 +74,12 @@ In July 2016 I founded my own company for doing consulting work. These are some 
 <br />
 <br />
 
+## Game development prototyping
+November 2019 - Now
+Developing and evaluating game prototypes for potentially continued development into fully fledged games.
+
 ### Emberlink
-December 2017 - June 2019
+December 2017 - October 2019
 
 Developed new features and helped improve their PubQ application, a template restaurant app to enable customers to get their own custom app. My main task was to create a new orderflow for a new customer but within that budget I was also able to redesign the back office UI, improve receipt printing and a whole slew of small fixes. The app is written in Typescript using Ionic with a Firebase backend.
 <br />
