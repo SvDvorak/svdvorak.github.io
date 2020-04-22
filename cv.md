@@ -77,6 +77,8 @@ In July 2016 I founded my own company for doing consulting work. These are some 
 ## Game development prototyping
 November 2019 - Now
 Developing and evaluating game prototypes for potentially continued development into fully fledged games.
+<br />
+<br />
 
 ### Emberlink
 December 2017 - October 2019
