@@ -69,14 +69,15 @@ description: Andreas Wilcox CV
 </div>
 <br />
 
-## Anwilc
-In July 2016 I founded my own company for doing consulting work. These are some of the contracts I've had.
+## Current work
+November 2019 - Now
+
+Developing and evaluating game prototypes for potentially continued development into fully fledged games.
 <br />
 <br />
 
-## Game development prototyping
-November 2019 - Now
-Developing and evaluating game prototypes for potentially continued development into fully fledged games.
+## Anwilc
+In July 2016 I founded my own company for doing consulting work. These are some of the contracts I've had.
 <br />
 <br />
 
