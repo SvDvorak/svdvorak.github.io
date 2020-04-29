@@ -36,21 +36,21 @@ data:
       - "In general I prefer working in 3D using Unity and Blender with Photoshop for textures but I've grown to like FNA and previously I've worked with Adventure Game Studio & Craft Studio."
       - "Check out the different games I’ve made at <a href='https://anwilc.itch.io/'>itch.io</a>."
       sideImages:
+        - video: /images/about/HiddenCats_square
+          link: https://anwilc.itch.io/hidden-cats
+        - video: /images/about/Q19_square
+          link: https://anwilc.itch.io/q19
         - video: /images/about/PuzzleKids_square
           link: https://anwilc.itch.io/puzzle-kids
-        - video: /images/about/INREDA_square
-          link: https://anwilc.itch.io/inreda
+      bottomImages:
         - video: /images/about/DavesTheory_square
           link: https://anwilc.itch.io/daves-theory-of-gravity
-      bottomImages:
+        - video: /images/about/INREDA_square
+          link: https://anwilc.itch.io/inreda
         - video: /images/about/AlidaOfArx_square
           link: https://anwilc.itch.io/alida-of-arx
         - video: /images/about/BrainDrain_square
           link: https://anwilc.itch.io/brain-drain
-        - video: /images/about/Disrubed_square
-          link: https://anwilc.itch.io/disrubed
-        - video: /images/about/DesertMiner_II_square
-          link: https://anwilc.itch.io/desert-miner-ii
 
     - title: 3D printing
       paragraphs:
@@ -61,13 +61,18 @@ data:
       - "To see several of my own designs and different items I’ve printed check out my <a href='https://www.thingiverse.com/SvDvorak'>Thingiverse page</a>."
       sideImages:
         - image: /images/about/printer_stack_crop.jpg
-        - image: /images/about/IMG_20181223_001625_crop.jpg
-          link: https://www.thingiverse.com/thing:3556738
-        - image: /images/about/IMG_20181011_125823_crop.jpg
-          link: https://www.thingiverse.com/thing:3241614
+          link: /images/about/printer_stack.jpg
+        - image: /images/about/Business_card_crop.jpg
+          link: /images/about/Business_card.jpg
+        - image: /images/about/Floor_signage_crop.jpg
+          link: /images/about/Floor_signage.jpg
       bottomImages:
+        - image: /images/about/PSX_retropie_crop.jpg
+          link: /images/about/PSX_retropie.jpg
         - image: /images/about/IMG_20181001_145619_crop.jpg
           link: https://www.thingiverse.com/thing:3556137
+        - image: /images/about/IMG_20181223_001625_crop.jpg
+          link: https://www.thingiverse.com/thing:3556738
         - image: /images/about/IMG_20190410_100429_crop.jpg
           link: https://www.thingiverse.com/thing:3553834
 ---
