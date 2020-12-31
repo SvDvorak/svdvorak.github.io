@@ -73,6 +73,8 @@ description: Andreas Wilcox CV
 May 2020 - Now
 
 Working as a programmer on a new unannounced project.
+<br />
+<br />
 
 ## Anwilc
 In July 2016 I founded my own company for doing consulting work. These are some of the contracts I've had.
