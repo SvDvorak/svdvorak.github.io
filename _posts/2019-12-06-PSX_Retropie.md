@@ -310,7 +310,7 @@ I'm very happy with the result, I actually got pretty much everything I wanted t
 
 It was fun doing a project that required that many different skills, switching between them all the time. With this I got to do design, 3D printing, electronics and setting up Retropie (and a bunch of tweaking).
 
-I've been wondering if I should put up the design files but seeing as pretty much all of them are designed around the specific parts I used I think it might not be too useful.
+The design files are available [online at Thingiverse](https://www.thingiverse.com/thing:4371570) if you're interested in making your own.
 
 So thanks for reading all the way to the end! If you have any questions or comments, just contact me using the buttons at the bottom of the page.
 

@@ -69,12 +69,10 @@ description: Andreas Wilcox CV
 </div>
 <br />
 
-## Current work
-November 2019 - Now
+## Clifftop Games
+May 2020 - Now
 
-Developing and evaluating game prototypes for potentially continued development into fully fledged games.
-<br />
-<br />
+Working as a programmer on a new unannounced project.
 
 ## Anwilc
 In July 2016 I founded my own company for doing consulting work. These are some of the contracts I've had.
