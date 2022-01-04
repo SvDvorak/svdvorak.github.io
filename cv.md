@@ -9,12 +9,13 @@ description: Andreas Wilcox CV
 ## Hi, I'm Andreas Wilcox
 <div class="split">
   <div class="intro_text">
-    <p>I'm an enthusiast of all things tech and I love to do anything creative. I may be mainly focused on programming but I also make games, 3D models, 3D prints and I create things out of wood; essentially if I get to create something I take on most challenges.</p>
+    <p>I'm an enthusiast of all things tech and I love to do anything creative. I may be mainly focused on game programming but I also create 3D models, 3D prints, electronic projects, small websites; essentially if I get to create something I take on most challenges.</p>
     <p>I like to learn new things as well, understanding a new tool or a different way of thinking is something I find exciting. That often includes trying out new programming languages, frameworks or tools.</p>
     <p>And I would say that I am meticulous in whatever I do, I push for quality at all times. Though I know from experience that there is a balance you must find between making something great and getting it out the door.</p>
     <div class="contacts_text">
       <p><b>Mail</b>: {{ _author.email }}</p>
       <p><b>Github</b>: https://github.com/{{ _author.github }}</p>
+      <p><b>Itch</b>: https://{{ _author.itch }}.itch.io</p>
       <p><b>LinkedIn</b>: https://www.linkedin.com/in/{{ _author.linkedin }}</p>
       <p><b>Twitter</b>: https://twitter.com/{{ _author.twitter }}</p>
     </div>
@@ -29,6 +30,11 @@ description: Andreas Wilcox CV
         <li class="author_link" title="{{ _locale_string_follow | replace: '[NAME]', 'Github' }}">
           <a class="button button--circle github-button" itemprop="sameAs" href="https://github.com/{{ _author.github }}" target="_blank">
             <div class="icon">{%- include svg/icon/social/github.svg -%}</div>
+          </a>
+        </li>
+        <li class="author_link" title="{{ _locale_string_follow | replace: '[NAME]', 'Itch' }}">
+          <a class="button button--circle mail-button" itemprop="sameAs" href="https://{{ _author.itch }}.itch.io" target="_blank">
+            <div class="icon">{%- include svg/itch.svg -%}</div>
           </a>
         </li>
         <li class="author_link" title="{{ _locale_string_follow | replace: '[NAME]', 'Linkedin' }}">
@@ -58,11 +64,11 @@ description: Andreas Wilcox CV
       <h3>Knowledgeable</h3>
       <ul>
           <li>Git</li>
-          <li>Typescript</li>
+          <li>Perforce</li>
           <li>Docker</li>
           <li>HTML & CSS</li>
           <li>Angular</li>
-          <li>WPF</li>
+          <li>Typescript</li>
       </ul>
     </div>
   </div>
@@ -70,10 +76,22 @@ description: Andreas Wilcox CV
 <br />
 
 ## Clifftop Games
-May 2020 - Now
-
-Working as a programmer on a new unannounced project.
+Programmer
 <br />
+May 2020 - Now
+<br />
+<br />
+
+### Unnanounced Project
+Continuing as principal programmer for Clifftop's next project, currently in pre-production.
+<br />
+<br />
+
+### Kathy Rain: Director's Cut
+I was the principal programmer for Kathy Rain: Director's Cut, a classical pixel art point & click adventure game made in Unity together with Adventure Creator. I came to the project a few months into development and worked on pretty much everything coding related; UI, tools, gamepad support, AC improvements, etc.
+<br />
+<br />
+
 <br />
 
 ## Anwilc

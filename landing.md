@@ -32,7 +32,7 @@ data:
     - title: Game development
       paragraphs:
       - "Playing and creating games in some form or another has always been a passion of mine. From making levels in Duke Nukem 3D to making small odd games in Unity, I just love creating interactivity and testing out new ideas."
-      - "I make them part time when I'm not doing my main job of coding and over the years I've built up a small library of games. All of them are free to play since I haven't finished anything to a level where I would actually ask money for it."
+      - "I'm currently making games at Clifftop Games but every now and then I make small game projects and over the years I've built up a little library of games. All of them are free to play since I haven't finished anything to a level where I would actually ask money for them."
       - "In general I prefer working in 3D using Unity and Blender with Photoshop for textures but I've grown to like FNA and previously I've worked with Adventure Game Studio & Craft Studio."
       - "Check out the different games I’ve made at <a href='https://anwilc.itch.io/'>itch.io</a>."
       sideImages:
