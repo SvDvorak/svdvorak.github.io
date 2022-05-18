@@ -1,4 +1,6 @@
 
+IF YOU'RE GETTING A "Could not find xxx-ruby-x.y.z" then remove Gemfile.lock!
+
 Nice looking homepages:
 https://conorpp.com/
 http://www.conormccann.net/
