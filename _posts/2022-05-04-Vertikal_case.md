@@ -1,7 +1,7 @@
 ---
 title: Vertikal case
 description: Creating my own computer case from scratch
-cover: /images/psx/35_finished.jpg
+cover: /images/vertikal/00_cover.jpg
 tags:
 - DIY
 - 3D printing
@@ -10,8 +10,6 @@ tags:
 ---
 
 ![Image](/images/vertikal/00_intro_final.jpg)
-
-# Dreaming up a case
 
 During the last year I've been working on and off on a dream project of mine: building my own computer case. Since I've been a teenager I dreamed of building my own computer case from scratch. Several case mockups have been made over the years and once I actually set out to build one but that case was never finished.
 
