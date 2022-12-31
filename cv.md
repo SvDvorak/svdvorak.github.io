@@ -65,6 +65,7 @@ description: Andreas Wilcox CV
       <ul>
           <li>Git</li>
           <li>Perforce</li>
+          <li>HLSL</li>
           <li>Docker</li>
           <li>HTML & CSS</li>
           <li>Angular</li>
@@ -76,14 +77,14 @@ description: Andreas Wilcox CV
 <br />
 
 ## Clifftop Games
-Programmer
+Principal programmer
 <br />
 May 2020 - Now
 <br />
 <br />
 
 ### Unnanounced Project
-Continuing as principal programmer for Clifftop's next project, currently in pre-production.
+Continuing as principal programmer for Clifftop's next project, currently in production.
 <br />
 <br />
 
