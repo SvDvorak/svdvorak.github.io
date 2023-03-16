@@ -36,21 +36,21 @@ data:
       - "In general I prefer working in 3D using Unity and Blender with Photoshop for textures but I've grown to like FNA and previously I've worked with Adventure Game Studio & Craft Studio."
       - "Check out the different games I’ve made at <a href='https://anwilc.itch.io/'>itch.io</a>."
       sideImages:
+        - video: /images/about/KathyRainDirectorsCut_square
+          link: https://store.steampowered.com/app/1395030/Kathy_Rain_Directors_Cut/
         - video: /images/about/HiddenCats_square
           link: https://anwilc.itch.io/hidden-cats
         - video: /images/about/Q19_square
           link: https://anwilc.itch.io/q19
+      bottomImages:
         - video: /images/about/PuzzleKids_square
           link: https://anwilc.itch.io/puzzle-kids
-      bottomImages:
         - video: /images/about/DavesTheory_square
           link: https://anwilc.itch.io/daves-theory-of-gravity
         - video: /images/about/INREDA_square
           link: https://anwilc.itch.io/inreda
         - video: /images/about/AlidaOfArx_square
           link: https://anwilc.itch.io/alida-of-arx
-        - video: /images/about/BrainDrain_square
-          link: https://anwilc.itch.io/brain-drain
 
     - title: 3D printing
       paragraphs:
