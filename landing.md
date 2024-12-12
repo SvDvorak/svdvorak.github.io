@@ -8,32 +8,16 @@ data:
     - title: Andreas Wilcox
       paragraphs:
         - "Hello! I'm an enthusiastic tech nerd who loves coding, game development, 3D modelling and 3D printing. I love anything creative and I have too many ideas and projects than is feasible to finish."
-        - "I'm also the founder of Anwilc, a company dedicated to consulting and project development in the previously mentioned categories. It's essentially the business extension of myself."
+        - "I currently work at <a href='https://www.clifftopgames.com/'>Clifftop Games</a> but I'm also the founder of Anwilc, a company dedicated to consulting and project development in the previously mentioned categories. It's essentially the business extension of myself."
         - "Below is a summary of the different things that occupy my time. Occasionally I write blog posts about whatever I'm doing or what I've created."
       sideImages:
         - image: /images/about/me.png
 
-    - title: Programming
-      paragraphs:
-        - "Coding has been my creative outlet for a long time and I've find that it is such a fun way of creating functionality out of a few lines of text. Either on my own projects and games or on professional software for various different customers."
-        - "I started out with creating desktop applications in C# or C++ but I've pivoted slightly towards web development in recent times which means Typescript, Node, Angular or Vue combined with hosting using Nginx and Docker."
-        - "As a consultant I've previously worked with companies such as Epiroc, CAB Group, Emberlink and Mjukvarufabriken where I've worked on both desktop and web applications."
-        - "I've also worked on a number of my own applications, most of which can be found on <a href='https://github.com/SvDvorak'>Github</a>. The ones I'm most proud of are Camp Explorer and Leitner Calendar."
-        - "<h4><a href='http://campexplorer.io'>Camp Explorer</a></h4>"
-        - "A search tool I created after finding it difficult to filter music on Bandcamp by combinations of different genres. It was built using Javascript and Angular for the frontend with Docker, Node and Elasticsearch for the backend."
-        - "<h4><a href='http://leitnercalendar.anwilc.com/'>Leitner Calendar</a></h4>"
-        - "A simple page just for keeping track of which Leitner cards to review each day, made with Vue.js and hosted by Nginx and Docker."
-      sideImages:
-        - image: /images/about/camp_explorer_crop.png
-          link: http://campexplorer.io
-        - image: /images/about/leitner_calendar_crop.png
-          link: http://leitnercalendar.anwilc.com/
-
     - title: Game development
       paragraphs:
       - "Playing and creating games in some form or another has always been a passion of mine. From making levels in Duke Nukem 3D to making small odd games in Unity, I just love creating interactivity and testing out new ideas."
-      - "I'm currently making games at Clifftop Games but every now and then I make small game projects and over the years I've built up a little library of games. All of them are free to play since I haven't finished anything to a level where I would actually ask money for them."
-      - "In general I prefer working in 3D using Unity and Blender with Photoshop for textures but I've grown to like FNA and previously I've worked with Adventure Game Studio & Craft Studio."
+      - "I'm currently making games at <a href='https://www.clifftopgames.com/'>Clifftop Games</a> but every now and then I make small game projects and over the years I've built up a little library of games. All of them are free to play since I haven't finished anything to a level where I would actually ask money for them."
+      - "In general I prefer working in 3D using Unity and Blender with Photoshop or Aseprite for textures but I've grown to like FNA and previously I've worked with Godot & Adventure Game Studio."
       - "Check out the different games I’ve made at <a href='https://anwilc.itch.io/'>itch.io</a>."
       sideImages:
         - video: /images/about/KathyRainDirectorsCut_square
@@ -52,13 +36,29 @@ data:
         - video: /images/about/AlidaOfArx_square
           link: https://anwilc.itch.io/alida-of-arx
 
+    - title: Programming
+      paragraphs:
+        - "Coding has been my creative outlet for a long time and I've find that it is such a fun way of creating functionality out of a few lines of text. Either on my own projects and games or on professional software for various different customers."
+        - "I started out with creating desktop applications in C# or C++ but I've also worked in web development which means Typescript, Node, Angular or Vue combined with hosting using Nginx and Docker."
+        - "As a consultant I've previously worked with companies such as Epiroc, CAB Group, Emberlink and Mjukvarufabriken where I've worked on both desktop and web applications."
+        - "I've also worked on a number of my own applications, most of which can be found on <a href='https://github.com/SvDvorak'>Github</a>. The ones I'm most proud of are Camp Explorer and Leitner Calendar."
+        - "<h4><a href='http://campexplorer.io'>Camp Explorer</a></h4>"
+        - "A search tool I created after finding it difficult to filter music on Bandcamp by combinations of different genres. It was built using Javascript and Angular for the frontend with Docker, Node and Elasticsearch for the backend."
+        - "<h4><a href='http://leitnercalendar.anwilc.com/'>Leitner Calendar</a></h4>"
+        - "A simple page just for keeping track of which Leitner cards to review each day, made with Vue.js and hosted by Nginx and Docker."
+      sideImages:
+        - image: /images/about/camp_explorer_crop.png
+          link: http://campexplorer.io
+        - image: /images/about/leitner_calendar_crop.png
+          link: http://leitnercalendar.anwilc.com/
+
     - title: 3D printing
       paragraphs:
-      - "Since early 2018 I’ve delved deep into the world of 3D printing, owning my own Original Prusa i3 MK3 printer."
-      - "At the start I mostly printed other peoples models but I've started making a few of my own designs. Finding things I can improve in my surrounding with a simple model and print is incredibly satisfying."
-      - "It has helped alot that I've already known 3D modelling from my time making games. Though now I've started getting into Constructive Solid Geometry using Fusion360. And in late 2018 I did a smaller prototype print run for Suzuki Wire in Örebro."
-      - "I’m open for helping companies both design and print prototypes or limited run items. I can both be part of the design process or just take a modell and print it in whatever material the customers want."
-      - "To see several of my own designs and different items I’ve printed check out my <a href='https://www.thingiverse.com/SvDvorak'>Thingiverse page</a>."
+      - "Since early 2018 I’ve delved deep into the world of 3D printing, owning a Original Prusa i3 MK3S+ printer and a heavily modified PrimaCreator P120."
+      - "At the start I mostly printed other peoples models but now I mostly make my own designs. Finding things I can improve in my surrounding with a simple model and print is incredibly satisfying."
+      - "It has helped I'm already comfortable with 3D modelling from my time making games though now I use Constructive Solid Geometry using Fusion360 instead of meshes in Blender. Over the years I've done 3D printing for Suzuki Wire, Länsmusiken i Örebro AB and EVEL AB."
+      - "I’m open for helping companies both design and print prototypes or limited run items. I can both be part of the design process or just take a model and print it in whatever material the customer want."
+      - "To see several of my own designs and different items I’ve printed check out my <a href='https://www.thingiverse.com/anwilc/designs'>Thingiverse</a> or <a href='https://www.printables.com/@AndreasW_2114'>Printables</a> page."
       sideImages:
         - image: /images/about/printer_stack_crop.jpg
           link: /images/about/printer_stack.jpg

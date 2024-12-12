@@ -83,8 +83,8 @@ May 2020 - Now
 <br />
 <br />
 
-### Unnanounced Project
-Continuing as principal programmer for Clifftop's next project, currently in production.
+### Kathy Rain 2
+I've been continuing as principal programmer for Clifftop's next project, Kathy Rain 2. We're still using Unity together with Adventure Creator and my tasks are similar but since KRDC I've greatly improved our toolchain. For KR2 I've also worked more on visual effects such as dynamic lighting and reflections.
 <br />
 <br />
 
