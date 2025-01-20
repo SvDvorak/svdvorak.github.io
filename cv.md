@@ -13,7 +13,7 @@ description: Andreas Wilcox CV
       <img src="/images/cv/me.jpg">
       <p>I'm a programmer and enthusiast of all things tech. I may be mainly focused on game programming but I also create 3D models, 3D prints, electronics projects, small websites; essentially if I get to be creative I take on most challenges.</p>
     </div>
-    <p>I like learning new things; understanding a new tool or a different way of thinking is something I find exciting. That often includes trying out new programming languages, game engines, frameworks or tools.</p>
+    <p>I like learning new things; getting a deeper understanding or finding a different way of thinking is something I find exciting. That often includes trying out new programming languages, game engines, frameworks or tools.</p>
     <p>I'm also meticulous in whatever I do, I push for quality at all times. Though I know from experience that there is a balance you must find between making something great and getting it out the door.</p>
     <div class="author-links">
       <ul class="menu menu--nowrap menu--inline contacts">
@@ -108,19 +108,19 @@ I was the principal programmer for [Kathy Rain: Director's Cut](https://store.st
 <br />
 
 ## Anwilc
-In July 2016 I founded my own company for doing consulting work and developing my own games. These are some of the contracts I've had, more can be given upon request.
+In July 2016 I founded my own company for doing consulting work and developing my own games. These are some of the contracts I've had.
 <br />
 
 ### PubQ
 December 2017 - October 2019
 
-Developed new features and helped improve their PubQ platform, a restaurant app template to enable restaurants to get their own custom app. I developed a new orderflow for new customers, implemented a table booking algorithm, redesigned the back office UI, improved receipt printing and a whole slew of small fixes. The app is written in Typescript using Ionic with a Firebase backend.
+Developed new features and helped improve their PubQ platform, a system for restaurants to get digital ordering and their own custom app. I developed a new orderflow for new customers, implemented a table booking algorithm, redesigned the back office UI, improved receipt printing and a whole slew of small fixes. The app is written in Typescript using Ionic with a Firebase backend.
 <br />
 
 ### Mjukvarufabriken
 August 2018 - January 2019
 
-Subcontracted for a company that sells custom renderings of new building constructions. My job was maintaining their Wordpress website and order system, including writing custom PHP. I helped them update existing services and implement new ones to offer their customers.
+Subcontracted for a company that sells custom renderings of new building constructions. My job was maintaining their Wordpress website and order system, including writing custom PHP. I helped them update existing services and implement new ones to offer to their customers.
 <br />
 
 ### CAB Group AB
@@ -130,7 +130,7 @@ Worked on CABAS, a WPF desktop application for insurance companies and workshops
 <br />
 <br />
 
-Older employment history available upon request.
+Older employment/contract history available upon request.
 
 <br />
 
