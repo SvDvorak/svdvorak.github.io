@@ -11,15 +11,15 @@ description: Andreas Wilcox CV
   <div class="intro_text">
     <div class="photo_text">
       <img src="/images/cv/me.jpg">
-      <p>I'm a programmer but also enthusiast of all things tech. I may be mainly focused on game programming but I also create 3D models, 3D prints, electronic projects, small websites; essentially if I get to be creative I take on most challenges.</p>
+      <p>I'm a programmer and enthusiast of all things tech. I may be mainly focused on game programming but I also create 3D models, 3D prints, electronics projects, small websites; essentially if I get to be creative I take on most challenges.</p>
     </div>
-    <p>I like to learn new things as well, understanding a new tool or a different way of thinking is something I find exciting. That often includes trying out new programming languages, frameworks or tools.</p>
-    <p>And I would say that I am meticulous in whatever I do, I push for quality at all times. Though I know from experience that there is a balance you must find between making something great and getting it out the door.</p>
+    <p>I like learning new things; understanding a new tool or a different way of thinking is something I find exciting. That often includes trying out new programming languages, game engines, frameworks or tools.</p>
+    <p>I'm also meticulous in whatever I do, I push for quality at all times. Though I know from experience that there is a balance you must find between making something great and getting it out the door.</p>
     <div class="author-links">
       <ul class="menu menu--nowrap menu--inline contacts">
         <li class="author_link">
           <a class="button button--circle mail-button" itemprop="sameAs" href="https://www.google.com/maps/place/%C3%96rebro" target="_blank">
-            <i class="fas fa-map"></i>
+            <i class="fas fa-map-marker"></i>
           </a>
           <p>Örebro, Sweden</p>
         </li>
@@ -99,11 +99,11 @@ May 2020 - Now
 <br />
 
 ### Kathy Rain 2
-I've been continuing as principal programmer for Clifftop's next project, [Kathy Rain 2](https://store.steampowered.com/app/1466390/Kathy_Rain_2_Soothsayer/). We're still using Unity together with Adventure Creator and my tasks are similar but since KRDC I've greatly improved our toolchain. For KR2 I've also worked more on visual effects such as dynamic lighting and reflections.
+I've been continuing as principal programmer for Clifftop's next project, [Kathy Rain 2: Soothsayer](https://store.steampowered.com/app/1466390/Kathy_Rain_2_Soothsayer/). We're still using Unity together with Adventure Creator and my tasks are similar but since KRDC I've greatly improved our toolchain. For KR2 I've also worked more on VFX such as dynamic lighting and reflections.
 <br />
 
 ### Kathy Rain: Director's Cut
-I was the principal programmer for [Kathy Rain: Director's Cut](https://store.steampowered.com/app/1395030/Kathy_Rain_Directors_Cut/), a classical pixel art point & click adventure game made in Unity together with Adventure Creator. I came to the project a few months into development and worked on pretty much everything coding related; UI, tools, gamepad support, AC improvements, etc.
+I was the principal programmer for [Kathy Rain: Director's Cut](https://store.steampowered.com/app/1395030/Kathy_Rain_Directors_Cut/), a classical pixel art point & click adventure game made in Unity together with Adventure Creator. I came to the project a few months into development and worked on pretty much everything coding related; UI, tools, gamepad support, Adventure Creator improvements, etc.
 <br />
 <br />
 
@@ -114,19 +114,19 @@ In July 2016 I founded my own company for doing consulting work and developing m
 ### PubQ
 December 2017 - October 2019
 
-Developed new features and helped improve their PubQ platform, a template restaurant app to enable customers to get their own custom app. I developed a new orderflow for new customers and redesigned the back office UI, improved receipt printing and a whole slew of small fixes. The app is written in Typescript using Ionic with a Firebase backend.
+Developed new features and helped improve their PubQ platform, a restaurant app template to enable restaurants to get their own custom app. I developed a new orderflow for new customers, implemented a table booking algorithm, redesigned the back office UI, improved receipt printing and a whole slew of small fixes. The app is written in Typescript using Ionic with a Firebase backend.
 <br />
 
 ### Mjukvarufabriken
 August 2018 - January 2019
 
-Subcontracted for a company that sells custom renderings of new building constructions. My job was maintaining their Wordpress website and ordersystem, including writing custom PHP. I helped them update and add new services to offer their customers.
+Subcontracted for a company that sells custom renderings of new building constructions. My job was maintaining their Wordpress website and order system, including writing custom PHP. I helped them update existing services and implement new ones to offer their customers.
 <br />
 
 ### CAB Group AB
 September 2016 - October 2017
 
-Worked on CABAS, a WPF desktop application for insurance companies and garages to calculate and plan vehicle reparations. A longlived application with a lot of legacy code, easily reflected in the number of bugs reported. I spearheaded an effort in implementing an easier workflow for Acceptance Test Driven Development using the xUnit framework and promoted the workflow within the team.
+Worked on CABAS, a WPF desktop application for insurance companies and workshops to calculate and plan vehicle reparations. A longlived application with a lot of legacy code which was clearly reflected in the number of bugs reported. I spearheaded an effort in implementing an easier workflow for Acceptance Test Driven Development using the xUnit framework and promoted the new workflow within the team.
 <br />
 <br />
 
@@ -138,7 +138,7 @@ Older employment history available upon request.
 ### Örebro University
 September 2008 - June 2011
 
-Studied the now defunct program Simulation and Computer Games Technology for three years, received a Bachelor of Computer Science.
+I studied the now defunct program Simulation and Computer Games Technology for three years and received a Bachelor of Computer Science.
 <br />
 <br />
 
