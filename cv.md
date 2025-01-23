@@ -24,7 +24,7 @@ description: Andreas Wilcox CV
           <p>Örebro, Sweden</p>
         </li>
         <li class="author_link">
-          <a class="button button--circle mail-button" itemprop="sameAs" href="tel:+0739128853" target="_blank">
+          <a class="button button--circle mail-button" itemprop="sameAs" href="tel:+46739128853" target="_blank">
             <i class="fas fa-phone"></i>
           </a>
           <p>+46(0)739128853</p>
