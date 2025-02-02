@@ -72,6 +72,7 @@ description: Andreas Wilcox CV
       <ul>
           <li>C#</li>
           <li>Unity</li>
+          <li>Adventure Creator</li>
           <li>Blender</li>
           <li>ATDD</li>
       </ul>
@@ -99,11 +100,13 @@ May 2020 - Now
 <br />
 
 ### Kathy Rain 2
-I've been continuing as principal programmer for Clifftop's next project, [Kathy Rain 2: Soothsayer](https://store.steampowered.com/app/1466390/Kathy_Rain_2_Soothsayer/). We're still using Unity together with Adventure Creator and my tasks are similar but since KRDC I've greatly improved our toolchain. For KR2 I've also worked more on VFX such as dynamic lighting and reflections.
+I've been continuing as principal programmer for Clifftop's next project, [Kathy Rain 2: Soothsayer](https://store.steampowered.com/app/1466390/Kathy_Rain_2_Soothsayer/). My tasks are similar to the ones I had during KRDC and we used the same tech but for KR2 I greatly improved our toolchain; including easier to use asset importers, better search tools, easier content management and more. For KR2 I've also focused on VFX such as dynamic lighting, reflections and palette swapping.
 <br />
 
 ### Kathy Rain: Director's Cut
-I was the principal programmer for [Kathy Rain: Director's Cut](https://store.steampowered.com/app/1395030/Kathy_Rain_Directors_Cut/), a classical pixel art point & click adventure game made in Unity together with Adventure Creator. I came to the project a few months into development and worked on pretty much everything coding related; UI, tools, gamepad support, Adventure Creator improvements, etc.
+I was the principal programmer for [Kathy Rain: Director's Cut](https://store.steampowered.com/app/1395030/Kathy_Rain_Directors_Cut/), a classical pixel art point & click adventure game made in Unity together with Adventure Creator. I came to the project a few months into development and worked on pretty much everything coding related; UI, tools, gamepad support, Adventure Creator improvements, etc. But as we're a small team I also did scripting, art asset tweaks, audio implementation and game design.
+<br />
+Skills: C#, Unity, Adventure Creator, HLSL, Perforce, Jetbrains Rider, Aseprite, Photoshop.
 <br />
 <br />
 
@@ -114,21 +117,22 @@ In July 2016 I founded my own company for doing consulting work and developing m
 ### PubQ
 December 2017 - October 2019
 
-Developed new features and helped improve their PubQ platform, a system for restaurants to get digital ordering and their own custom app. I developed a new orderflow for new customers, implemented a table booking algorithm, redesigned the back office UI, improved receipt printing and a whole slew of small fixes. The app is written in Typescript using Ionic with a Firebase backend.
+Developed new features and helped improve their PubQ platform, a system for restaurants to get digital ordering and their own custom app. I developed a new orderflow for new customers, implemented a table booking algorithm, redesigned the back office UI, improved receipt printing and a whole slew of small fixes.
+Skills: Typescript, Angular, Ionic, Firebase, Git.
 <br />
 
 ### Mjukvarufabriken
 August 2018 - January 2019
 
 Subcontracted for a company that sells custom renderings of new building constructions. My job was maintaining their Wordpress website and order system, including writing custom PHP. I helped them update existing services and implement new ones to offer to their customers.
-Skills: PHP, Javascript,
+Skills: PHP, Javascript, Angular, SVN
 <br />
 
 ### CAB Group AB
 September 2016 - October 2017
 
 Worked on CABAS, a desktop application for insurance companies and workshops to calculate and plan vehicle reparations. A longlived application with a lot of legacy code which was clearly reflected in the number of bugs reported. On top of general feature implementation I also spearheaded an effort in implementing an easier workflow for Acceptance Test Driven Development and promoted the new workflow within the team.
-Skills: C#, WPF, Microsoft SQL Server, ATDD, xUnit
+Skills: C#, WPF, Microsoft SQL Server, TFS, ATDD, xUnit.
 <br />
 <br />
 
@@ -147,7 +151,13 @@ I studied the now defunct program Simulation and Computer Games Technology for t
 ## Other notable projects
 ### [Camp Explorer](http://campexplorer.io)
 My solution to the problem of finding new and exciting music on the Bandcamp website. I created my own search service that caches Bandcamps music and quickly returns back results on whatever genres the user searches for.
-Skills: Javascript, Node, Jasmine, Elasticsearch, Docker and Nginx.
+Skills: Javascript, Node, Jasmine, Elasticsearch, Docker, Nginx, Git.
 
 <br />
 <br />
+
+## Languages
+<ul>
+<li>Swedish - Native
+<li>English - Fluent
+</ul>
