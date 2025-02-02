@@ -11,9 +11,9 @@ description: Andreas Wilcox CV
   <div class="intro_text">
     <div class="photo_text">
       <img src="/images/cv/me.jpg">
-      <p>I'm a programmer and enthusiast of all things tech. I may be mainly focused on game programming but I also create 3D models, 3D prints, electronics projects, small websites; essentially if I get to be creative I take on most challenges.</p>
+      <p>I'm a programmer and enthusiast of all things tech. While my primary focus nowadays is game programming, I also work with 3D modelling, 3D printing, electronics projects, small websites; essentially if I get to be creative I take on most challenges.</p>
     </div>
-    <p>I like learning new things; getting a deeper understanding or finding a different way of thinking is something I find exciting. That often includes trying out new programming languages, game engines, frameworks or tools.</p>
+    <p>I am passionate about learning and enjoy gaining deeper insights or exploring alternative ways of thinking. That often includes trying out new programming languages, game engines, frameworks or tools.</p>
     <p>I'm also meticulous in whatever I do, I push for quality at all times. Though I know from experience that there is a balance you must find between making something great and getting it out the door.</p>
     <div class="author-links">
       <ul class="menu menu--nowrap menu--inline contacts">
@@ -101,17 +101,15 @@ description: Andreas Wilcox CV
 <br />
 
 ## Clifftop Games
-Principal programmer
-<br />
-May 2020 - Now
+May 2020 - Present
 <br />
 
 ### Kathy Rain 2
-I've been continuing as principal programmer for Clifftop's next project, [Kathy Rain 2: Soothsayer](https://store.steampowered.com/app/1466390/Kathy_Rain_2_Soothsayer/). My tasks and tech has been similar from KRDC but for KR2 I greatly improved our toolchain; including easier to use asset importers, better search tools and content management and a lot of small QoL tools. For KR2 I've also focused on VFX such as dynamic lighting, reflections and palette swapping.
+I've continued as the principal programmer for Clifftop's latest project, [Kathy Rain 2: Soothsayer](https://store.steampowered.com/app/1466390/Kathy_Rain_2_Soothsayer/). My tasks and technology stack have been similar to KRDC but for KR2 I significantly improved our toolchain. This included more user-friendly asset importering, enhanced search tools, easier content management and various quality-of-life tools. For KR2 I've also focused on VFX such as dynamic lighting, reflections and palette swapping.
 <br />
 
 ### Kathy Rain: Director's Cut
-I was the principal programmer for [Kathy Rain: Director's Cut](https://store.steampowered.com/app/1395030/Kathy_Rain_Directors_Cut/), a classical pixel art point & click adventure game made in Unity together with Adventure Creator. I came to the project a few months into development and worked on pretty much everything coding related; UI, tools, gamepad support, Adventure Creator improvements, etc. But as we're a small team I also did scripting, art asset tweaks, audio implementation and game design.
+I was the principal programmer for [Kathy Rain: Director's Cut](https://store.steampowered.com/app/1395030/Kathy_Rain_Directors_Cut/), a classical pixel art point & click adventure game made in Unity together with Adventure Creator. I joined the project a few months into development and worked on all aspects related to code; UI, tools, gamepad support, Adventure Creator improvements, etc. But as we're a small team I also did scripting, art asset tweaks, audio implementation and game design.
 
 *Skills: C#, Unity, Adventure Creator, HLSL, Perforce, Jetbrains Rider, Aseprite, Photoshop*
 <br />
@@ -124,7 +122,7 @@ In July 2016 I founded my own company for doing consulting work and developing m
 ### PubQ
 December 2017 - October 2019
 
-Developed new features and helped improve their PubQ platform, a system for restaurants to get digital ordering and their own custom app. I developed a new orderflow for new customers, implemented a table booking algorithm, redesigned the back office UI, improved receipt printing and a whole slew of small fixes.
+Developed new features and helped improve their PubQ platform, a system for restaurants to get digital ordering and their own custom app. I developed a new order flow for new customers, implemented a table booking algorithm, redesigned the back-office UI, improved receipt printing and addressed numerous smaller issues.
 
 *Skills: Typescript, Angular, Ionic, Firebase, Git*
 <br />
@@ -132,15 +130,15 @@ Developed new features and helped improve their PubQ platform, a system for rest
 ### Mjukvarufabriken
 August 2018 - January 2019
 
-Subcontracted for a company that sells custom renderings of new building constructions. My job was maintaining their Wordpress website and order system, including writing custom PHP. I helped them update existing services and implement new ones to offer to their customers.
+Subcontracted for a company that sells custom renderings of new building constructions. I maintained their WordPress website and order system, including developing custom PHP solutions. I helped them update existing services and implement new ones to offer to their customers.
 
-*Skills: PHP, Javascript, Angular, SVN*
+*Skills: PHP, Wordpress, Javascript, SVN*
 <br />
 
 ### CAB Group AB
 September 2016 - October 2017
 
-Worked on CABAS, a desktop application for insurance companies and workshops to calculate and plan vehicle reparations. A longlived application with a lot of legacy code which was clearly reflected in the number of bugs reported. On top of general feature implementation I also spearheaded an effort in implementing an easier workflow for Acceptance Test Driven Development and promoted the new workflow within the team.
+Worked on CABAS, a desktop application for insurance companies and workshops to calculate and plan vehicle reparations. A longlived application with a lot of legacy code which was clearly reflected in the number of bugs reported. In addition to general feature development I also spearheaded an effort in implementing an easier workflow for Acceptance Test Driven Development (ATDD) and promoted the new workflow within the team.
 
 *Skills: C#, WPF, Microsoft SQL Server, TFS, ATDD, xUnit*
 <br />
@@ -154,7 +152,7 @@ Older employment/contract history available upon request.
 ### Örebro University
 September 2008 - June 2011
 
-I studied the now defunct program Simulation and Computer Games Technology for three years and received a Bachelor of Computer Science.
+I studied the program Simulation and Computer Games Technology (now discontinued) for three years and received a Bachelor of Computer Science.
 <br />
 <br />
 
