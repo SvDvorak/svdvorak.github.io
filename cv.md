@@ -73,20 +73,20 @@ description: Andreas Wilcox CV
           <li>C#</li>
           <li>Unity</li>
           <li>Adventure Creator</li>
-          <li>Blender</li>
+          <li>Perforce</li>
           <li>ATDD</li>
       </ul>
     </div>
     <div>
       <h3>Knowledgeable</h3>
       <ul>
-          <li>Git</li>
-          <li>Perforce</li>
           <li>HLSL</li>
           <li>Docker</li>
+          <li>Blender</li>
           <li>HTML & CSS</li>
           <li>Angular</li>
           <li>Typescript</li>
+          <li>Git</li>
       </ul>
     </div>
     <div>
