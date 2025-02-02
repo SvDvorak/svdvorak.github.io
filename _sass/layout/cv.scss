@@ -5,10 +5,24 @@
   .intro_text {
     @include flex(4 0 0);
 
-    .photo_text img {
-      float: left;
-      width: 18rem;
-      padding-right: 1rem;
+    .photo_text {
+      img {
+        float: none;
+        width: 18rem;
+        padding-right: 1rem;
+      }
+
+      @media (min-width: 700px) {
+        img {
+          float: left;
+        }
+      }
+
+      @media print {
+        img {
+          float: left;
+        }
+      }
     }
 
     .contacts {
