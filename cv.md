@@ -121,12 +121,14 @@ Developed new features and helped improve their PubQ platform, a system for rest
 August 2018 - January 2019
 
 Subcontracted for a company that sells custom renderings of new building constructions. My job was maintaining their Wordpress website and order system, including writing custom PHP. I helped them update existing services and implement new ones to offer to their customers.
+Skills: PHP, Javascript,
 <br />
 
 ### CAB Group AB
 September 2016 - October 2017
 
-Worked on CABAS, a WPF desktop application for insurance companies and workshops to calculate and plan vehicle reparations. A longlived application with a lot of legacy code which was clearly reflected in the number of bugs reported. I spearheaded an effort in implementing an easier workflow for Acceptance Test Driven Development using the xUnit framework and promoted the new workflow within the team.
+Worked on CABAS, a desktop application for insurance companies and workshops to calculate and plan vehicle reparations. A longlived application with a lot of legacy code which was clearly reflected in the number of bugs reported. On top of general feature implementation I also spearheaded an effort in implementing an easier workflow for Acceptance Test Driven Development and promoted the new workflow within the team.
+Skills: C#, WPF, Microsoft SQL Server, ATDD, xUnit
 <br />
 <br />
 
@@ -144,7 +146,8 @@ I studied the now defunct program Simulation and Computer Games Technology for t
 
 ## Other notable projects
 ### [Camp Explorer](http://campexplorer.io)
-My solution to the problem of finding new and exciting music on the Bandcamp website. I created my own search service that caches Bandcamps music and quickly returns back results on whatever genres the user searches for. It was a good exercise for me to learn Javascript, Node, Jasmine, Elasticsearch, Docker and Nginx.
+My solution to the problem of finding new and exciting music on the Bandcamp website. I created my own search service that caches Bandcamps music and quickly returns back results on whatever genres the user searches for.
+Skills: Javascript, Node, Jasmine, Elasticsearch, Docker and Nginx.
 
 <br />
 <br />
