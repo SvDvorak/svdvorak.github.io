@@ -101,11 +101,12 @@ description: Andreas Wilcox CV
 <br />
 
 ## Clifftop Games
+Principal Programmer<br />
 May 2020 - Present
 <br />
 
 ### Kathy Rain 2
-I've continued as the principal programmer for Clifftop's latest project, [Kathy Rain 2: Soothsayer](https://store.steampowered.com/app/1466390/Kathy_Rain_2_Soothsayer/). My tasks and technology stack have been similar to KRDC but for KR2 I significantly improved our toolchain. This included more user-friendly asset importering, enhanced search tools, easier content management and various quality-of-life tools. For KR2 I've also focused on VFX such as dynamic lighting, reflections and palette swapping.
+After Kathy Rain: Director's Cut we started development of the sequel, [Kathy Rain 2: Soothsayer](https://store.steampowered.com/app/1466390/Kathy_Rain_2_Soothsayer/). My tasks and technology stack have been similar to KRDC but for KR2 I significantly improved our toolchain. This included more user-friendly asset importering, enhanced search tools, easier content management and various quality-of-life tools. For KR2 I've also focused on VFX such as dynamic lighting, reflections and palette swapping.
 <br />
 
 ### Kathy Rain: Director's Cut
@@ -114,12 +115,14 @@ I was the principal programmer for [Kathy Rain: Director's Cut](https://store.st
 *Skills: C#, Unity, Adventure Creator, HLSL, Perforce, Jetbrains Rider, Aseprite, Photoshop*
 <br />
 <br />
+<div class="page_break"></div>
 
 ## Anwilc
 In July 2016 I founded my own company for doing consulting work and developing my own games. These are some of the contracts I've had.
 <br />
 
 ### PubQ
+Programmer<br />
 December 2017 - October 2019
 
 Developed new features and helped improve their PubQ platform, a system for restaurants to get digital ordering and their own custom app. I developed a new order flow for new customers, implemented a table booking algorithm, redesigned the back-office UI, improved receipt printing and addressed numerous smaller issues.
@@ -128,6 +131,7 @@ Developed new features and helped improve their PubQ platform, a system for rest
 <br />
 
 ### Mjukvarufabriken
+Programmer<br />
 August 2018 - January 2019
 
 Subcontracted for a company that sells custom renderings of new building constructions. I maintained their WordPress website and order system, including developing custom PHP solutions. I helped them update existing services and implement new ones to offer to their customers.
@@ -136,28 +140,31 @@ Subcontracted for a company that sells custom renderings of new building constru
 <br />
 
 ### CAB Group AB
+Programmer<br />
 September 2016 - October 2017
 
 Worked on CABAS, a desktop application for insurance companies and workshops to calculate and plan vehicle reparations. A longlived application with a lot of legacy code which was clearly reflected in the number of bugs reported. In addition to general feature development I also spearheaded an effort in implementing an easier workflow for Acceptance Test Driven Development (ATDD) and promoted the new workflow within the team.
 
 *Skills: C#, WPF, Microsoft SQL Server, TFS, ATDD, xUnit*
-<br />
-<br />
-
+<div class="small_br"></div>
 Older employment/contract history available upon request.
 
-<br />
+<div class="small_br"></div>
 
 ## Education
+{: .no_bottom_margin }
 ### Örebro University
+{: .no_top_margin }
 September 2008 - June 2011
 
 I studied the program Simulation and Computer Games Technology (now discontinued) for three years and received a Bachelor of Computer Science.
-<br />
-<br />
+
+<div class="small_br"></div>
 
 ## Other notable projects
+{: .no_bottom_margin }
 ### [Camp Explorer](http://campexplorer.io)
+{: .no_top_margin }
 My solution to the problem of finding new and exciting music on the Bandcamp website. I created my own search service that caches Bandcamps music and quickly returns back results on whatever genres the user searches for.
 
 *Skills: Javascript, Node, Jasmine, Elasticsearch, Docker, Nginx, Git*

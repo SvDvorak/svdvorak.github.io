@@ -1,3 +1,23 @@
+p {
+  margin-top: 0;
+}
+
+h3 {
+  margin-bottom: 0;
+}
+
+.small_br {
+  margin-top: 1rem;
+}
+
+.no_top_margin {
+  margin-top: 0;
+}
+
+.no_bottom_margin {
+  margin-bottom: 0;
+}
+
 .split {
   @include flexbox();
   @include flex-flow(row);
@@ -17,12 +37,6 @@
           float: left;
         }
       }
-
-      @media print {
-        img {
-          float: left;
-        }
-      }
     }
 
     .contacts {
@@ -34,6 +48,7 @@
       @include flex-flow(row);
 
       p {
+        margin-top: 0.5rem;
         margin-left: 0.75rem;
       }
     }
@@ -87,5 +102,31 @@
     div + div {
       margin: 0 0 0 0rem;
     }
+  }
+}
+
+@media print {
+  .split .intro_text .photo_text img {
+    float: left;
+  }
+
+  .page_break {
+    break-after: page
+  }
+
+  h2 {
+    font-size: 24px
+  }
+
+  h3 {
+    font-size: 20px
+  }
+
+  p {
+    font-size: 13px
+  }
+
+  li {
+    font-size: 13px
   }
 }
