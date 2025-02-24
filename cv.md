@@ -11,7 +11,7 @@ description: Andreas Wilcox CV
   <div class="intro_text">
     <div class="photo_text">
       <img src="/images/cv/me.jpg">
-      <p>I'm a programmer and enthusiast of all things tech. While my primary focus nowadays is game programming, I also work with 3D modelling, 3D printing, electronics projects, small websites; essentially if I get to be creative I take on most challenges.</p>
+      <p>I'm a programmer and enthusiast of all things tech. While I have 14 years experience as a programmer, I also work with 3D modelling, 3D printing and electronics; essentially if I get to be creative I take on most challenges.</p>
     </div>
     <p>I am passionate about learning and enjoy gaining deeper insights or exploring alternative ways of thinking. That often includes trying out new programming languages, game engines, frameworks or tools.</p>
     <p>I'm also meticulous in whatever I do, I push for quality at all times. Though I know from experience that there is a balance you must find between making something great and getting it out the door.</p>
