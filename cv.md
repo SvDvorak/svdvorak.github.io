@@ -102,7 +102,7 @@ description: Andreas Wilcox CV
 
 ## Clifftop Games
 Principal Programmer<br />
-May 2020 - Present
+May 2020 - May 2025
 <br />
 
 ### Kathy Rain 2
